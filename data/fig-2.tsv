@@ -1,0 +1,1369 @@
+Feature_type	Feature	Covariate_type	Covariate	Effect_size	FDR	Robust_sig	Naive_sig																		
+Functional Modules	Tryptophan Biosynthesis	Phenotype	GESPIC	-0.324	1.25e-03	**																			
+Functional Modules	Tryptophan Biosynthesis	Medication	NSAIDs_current	-0.089	5.42e-01																				
+Functional Modules	Tryptophan Biosynthesis	Demographic	Age	0.155	3.41e-02	*																			
+Functional Modules	Tryptophan Biosynthesis	Demographic	Sex	0.1	2.49e-01																				
+Functional Modules	Tryptophan Biosynthesis	Phenotype	HLAB27	-0.224	6.55e-03		**																		
+Functional Modules	Tryptophan Biosynthesis	Medication	Antibiotics_recent	0.126	9.45e-01																				
+Functional Modules	Tryptophan Biosynthesis	Inflammation	CRP	-0.217	8.83e-04		***																		
+Functional Modules	Tryptophan Biosynthesis	Medication	Corticoids_current	-0.173	9.46e-01																				
+Functional Modules	Tryptophan Biosynthesis	Medication	Corticoids_ever	-0.109	7.11e-01																				
+Functional Modules	Tryptophan Biosynthesis	Medication	csDMARDs_ever	0.028	8.03e-01																				
+Functional Modules	Tryptophan Biosynthesis	Medication	csDMARDs_current	-0.043	8.43e-01																				
+Functional Modules	Tryptophan Biosynthesis	Inflammation	ESR	-0.06	4.22e-01																				
+Functional Modules	Tryptophan Biosynthesis	Demographic	BMI	0.022	8.92e-01																				
+Functional Modules	Tryptophan Biosynthesis	Phenotype	CD	0.043	6.63e-01																				
+Functional Modules	Tryptophan Biosynthesis	Phenotype	AAU	-0.076	3.75e-01																				
+Functional Modules	Tryptophan Biosynthesis	Phenotype	SpA	-0.258	6.30e-04	***																			
+Functional Modules	Tryptophan Biosynthesis	Enterotype	B1	0.208	1.19e-03		**																		
+Functional Modules	Tryptophan Biosynthesis	Enterotype	B2	0.105	1.49e-01																				
+Functional Modules	Tryptophan Biosynthesis	Enterotype	P	-0.562	2.57e-11	***																			
+Functional Modules	Arabinoxylan Degradation	Phenotype	GESPIC	-0.372	5.29e-05	***																			
+Functional Modules	Arabinoxylan Degradation	Medication	NSAIDs_current	0.015	9.35e-01																				
+Functional Modules	Arabinoxylan Degradation	Demographic	Age	0.028	7.28e-01																				
+Functional Modules	Arabinoxylan Degradation	Demographic	Sex	0.043	6.02e-01																				
+Functional Modules	Arabinoxylan Degradation	Phenotype	HLAB27	-0.167	4.06e-02		*																		
+Functional Modules	Arabinoxylan Degradation	Medication	Antibiotics_recent	0.065	9.79e-01																				
+Functional Modules	Arabinoxylan Degradation	Inflammation	CRP	-0.147	1.78e-02		*																		
+Functional Modules	Arabinoxylan Degradation	Medication	Corticoids_current	-0.012	9.67e-01																				
+Functional Modules	Arabinoxylan Degradation	Medication	Corticoids_ever	0.021	9.56e-01																				
+Functional Modules	Arabinoxylan Degradation	Medication	csDMARDs_ever	-0.125	2.00e-01																				
+Functional Modules	Arabinoxylan Degradation	Medication	csDMARDs_current	-0.118	9.40e-01																				
+Functional Modules	Arabinoxylan Degradation	Inflammation	ESR	-0.029	7.44e-01																				
+Functional Modules	Arabinoxylan Degradation	Demographic	BMI	-0.028	8.99e-01																				
+Functional Modules	Arabinoxylan Degradation	Phenotype	CD	0.011	9.47e-01																				
+Functional Modules	Arabinoxylan Degradation	Phenotype	AAU	-0.122	2.10e-01																				
+Functional Modules	Arabinoxylan Degradation	Phenotype	SpA	-0.207	7.05e-03		**																		
+Functional Modules	Arabinoxylan Degradation	Enterotype	B1	-0.113	1.03e-01																				
+Functional Modules	Arabinoxylan Degradation	Enterotype	B2	0.258	1.46e-04	***																			
+Functional Modules	Arabinoxylan Degradation	Enterotype	P	-0.213	1.30e-02		*																		
+Functional Modules	Fructan Degradation	Phenotype	GESPIC	-0.376	4.86e-05	***																			
+Functional Modules	Fructan Degradation	Medication	NSAIDs_current	-0.057	7.01e-01																				
+Functional Modules	Fructan Degradation	Demographic	Age	0.034	6.96e-01																				
+Functional Modules	Fructan Degradation	Demographic	Sex	0.096	2.71e-01																				
+Functional Modules	Fructan Degradation	Phenotype	HLAB27	-0.177	4.06e-02		*																		
+Functional Modules	Fructan Degradation	Medication	Antibiotics_recent	0.071	9.76e-01																				
+Functional Modules	Fructan Degradation	Inflammation	CRP	-0.188	3.30e-03		**																		
+Functional Modules	Fructan Degradation	Medication	Corticoids_current	-0.132	9.23e-01																				
+Functional Modules	Fructan Degradation	Medication	Corticoids_ever	-0.053	9.50e-01																				
+Functional Modules	Fructan Degradation	Medication	csDMARDs_ever	-0.065	4.97e-01																				
+Functional Modules	Fructan Degradation	Medication	csDMARDs_current	-0.053	9.40e-01																				
+Functional Modules	Fructan Degradation	Inflammation	ESR	-0.121	8.51e-02		*																		
+Functional Modules	Fructan Degradation	Demographic	BMI	-0.071	5.78e-01																				
+Functional Modules	Fructan Degradation	Phenotype	CD	0.005	9.89e-01																				
+Functional Modules	Fructan Degradation	Phenotype	AAU	-0.096	2.83e-01																				
+Functional Modules	Fructan Degradation	Phenotype	SpA	-0.211	5.99e-03		**																		
+Functional Modules	Fructan Degradation	Enterotype	B1	0.134	4.87e-02		*																		
+Functional Modules	Fructan Degradation	Enterotype	B2	0.176	9.92e-03		**																		
+Functional Modules	Fructan Degradation	Enterotype	P	-0.543	1.14e-10	***																			
+Functional Modules	Maltose Degradation	Phenotype	GESPIC	0.263	6.25e-03	**																			
+Functional Modules	Maltose Degradation	Medication	NSAIDs_current	-0.001	9.92e-01																				
+Functional Modules	Maltose Degradation	Demographic	Age	0.037	6.75e-01																				
+Functional Modules	Maltose Degradation	Demographic	Sex	-0.072	3.69e-01																				
+Functional Modules	Maltose Degradation	Phenotype	HLAB27	-0.007	9.45e-01																				
+Functional Modules	Maltose Degradation	Medication	Antibiotics_recent	0.125	8.15e-01																				
+Functional Modules	Maltose Degradation	Inflammation	CRP	0.155	1.54e-02	*																			
+Functional Modules	Maltose Degradation	Medication	Corticoids_current	0.175	9.23e-01																				
+Functional Modules	Maltose Degradation	Medication	Corticoids_ever	0.089	9.50e-01																				
+Functional Modules	Maltose Degradation	Medication	csDMARDs_ever	0.13	1.73e-01																				
+Functional Modules	Maltose Degradation	Medication	csDMARDs_current	0.114	9.40e-01																				
+Functional Modules	Maltose Degradation	Inflammation	ESR	0.104	1.53e-01																				
+Functional Modules	Maltose Degradation	Demographic	BMI	0.026	8.99e-01																				
+Functional Modules	Maltose Degradation	Phenotype	CD	0.202	9.31e-03	**																			
+Functional Modules	Maltose Degradation	Phenotype	AAU	0.083	3.10e-01																				
+Functional Modules	Maltose Degradation	Phenotype	SpA	0.135	9.54e-02		*																		
+Functional Modules	Maltose Degradation	Enterotype	B1	-0.12	7.42e-02		*																		
+Functional Modules	Maltose Degradation	Enterotype	B2	0.153	2.22e-02		*																		
+Functional Modules	Maltose Degradation	Enterotype	P	-0.027	7.53e-01																				
+Functional Modules	Sucrose Degradation I	Phenotype	GESPIC	-0.304	1.40e-03	**																			
+Functional Modules	Sucrose Degradation I	Medication	NSAIDs_current	-0.05	7.40e-01																				
+Functional Modules	Sucrose Degradation I	Demographic	Age	0.053	4.77e-01																				
+Functional Modules	Sucrose Degradation I	Demographic	Sex	0.105	2.15e-01																				
+Functional Modules	Sucrose Degradation I	Phenotype	HLAB27	-0.149	6.46e-02		*																		
+Functional Modules	Sucrose Degradation I	Medication	Antibiotics_recent	0.071	9.76e-01																				
+Functional Modules	Sucrose Degradation I	Inflammation	CRP	-0.185	3.30e-03		**																		
+Functional Modules	Sucrose Degradation I	Medication	Corticoids_current	-0.115	9.23e-01																				
+Functional Modules	Sucrose Degradation I	Medication	Corticoids_ever	-0.051	9.50e-01																				
+Functional Modules	Sucrose Degradation I	Medication	csDMARDs_ever	-0.047	6.06e-01																				
+Functional Modules	Sucrose Degradation I	Medication	csDMARDs_current	-0.042	9.40e-01																				
+Functional Modules	Sucrose Degradation I	Inflammation	ESR	-0.109	1.28e-01																				
+Functional Modules	Sucrose Degradation I	Demographic	BMI	-0.073	5.78e-01																				
+Functional Modules	Sucrose Degradation I	Phenotype	CD	0.028	8.26e-01																				
+Functional Modules	Sucrose Degradation I	Phenotype	AAU	-0.061	4.29e-01																				
+Functional Modules	Sucrose Degradation I	Phenotype	SpA	-0.201	8.61e-03		**																		
+Functional Modules	Sucrose Degradation I	Enterotype	B1	0.22	6.66e-04		***																		
+Functional Modules	Sucrose Degradation I	Enterotype	B2	0.165	1.61e-02		*																		
+Functional Modules	Sucrose Degradation I	Enterotype	P	-0.685	3.81e-16	***																			
+Functional Modules	Fucose Degradation	Phenotype	GESPIC	-0.395	1.85e-05	***																			
+Functional Modules	Fucose Degradation	Medication	NSAIDs_current	-0.048	7.42e-01																				
+Functional Modules	Fucose Degradation	Demographic	Age	0.076	3.02e-01																				
+Functional Modules	Fucose Degradation	Demographic	Sex	0.189	3.87e-02	*																			
+Functional Modules	Fucose Degradation	Phenotype	HLAB27	-0.232	4.36e-03		**																		
+Functional Modules	Fucose Degradation	Medication	Antibiotics_recent	0.032	9.79e-01																				
+Functional Modules	Fucose Degradation	Inflammation	CRP	-0.195	3.14e-03		**																		
+Functional Modules	Fucose Degradation	Medication	Corticoids_current	-0.141	9.23e-01																				
+Functional Modules	Fucose Degradation	Medication	Corticoids_ever	0.003	9.85e-01																				
+Functional Modules	Fucose Degradation	Medication	csDMARDs_ever	0.03	7.58e-01																				
+Functional Modules	Fucose Degradation	Medication	csDMARDs_current	0.002	9.86e-01																				
+Functional Modules	Fucose Degradation	Inflammation	ESR	-0.084	2.66e-01																				
+Functional Modules	Fucose Degradation	Demographic	BMI	-0.072	5.78e-01																				
+Functional Modules	Fucose Degradation	Phenotype	CD	0.104	2.55e-01																				
+Functional Modules	Fucose Degradation	Phenotype	AAU	-0.131	1.89e-01																				
+Functional Modules	Fucose Degradation	Phenotype	SpA	-0.24	1.46e-03		**																		
+Functional Modules	Fucose Degradation	Enterotype	B1	0.058	4.10e-01																				
+Functional Modules	Fucose Degradation	Enterotype	B2	0.355	2.01e-07	***																			
+Functional Modules	Fucose Degradation	Enterotype	P	-0.693	1.84e-16	***																			
+Functional Modules	Rhamnose Degradation	Phenotype	GESPIC	-0.424	4.65e-06	***																			
+Functional Modules	Rhamnose Degradation	Medication	NSAIDs_current	-0.012	9.40e-01																				
+Functional Modules	Rhamnose Degradation	Demographic	Age	0.012	8.82e-01																				
+Functional Modules	Rhamnose Degradation	Demographic	Sex	0.123	1.33e-01																				
+Functional Modules	Rhamnose Degradation	Phenotype	HLAB27	-0.169	4.06e-02		*																		
+Functional Modules	Rhamnose Degradation	Medication	Antibiotics_recent	0.134	8.00e-01																				
+Functional Modules	Rhamnose Degradation	Inflammation	CRP	-0.159	1.32e-02		*																		
+Functional Modules	Rhamnose Degradation	Medication	Corticoids_current	-0.131	9.23e-01																				
+Functional Modules	Rhamnose Degradation	Medication	Corticoids_ever	-0.054	9.50e-01																				
+Functional Modules	Rhamnose Degradation	Medication	csDMARDs_ever	-0.15	1.31e-01																				
+Functional Modules	Rhamnose Degradation	Medication	csDMARDs_current	-0.158	6.57e-01																				
+Functional Modules	Rhamnose Degradation	Inflammation	ESR	-0.131	6.01e-02		*																		
+Functional Modules	Rhamnose Degradation	Demographic	BMI	-0.018	9.42e-01																				
+Functional Modules	Rhamnose Degradation	Phenotype	CD	-0.052	6.29e-01																				
+Functional Modules	Rhamnose Degradation	Phenotype	AAU	-0.059	4.32e-01																				
+Functional Modules	Rhamnose Degradation	Phenotype	SpA	-0.223	3.30e-03		**																		
+Functional Modules	Rhamnose Degradation	Enterotype	B1	-0.102	1.39e-01																				
+Functional Modules	Rhamnose Degradation	Enterotype	B2	0.192	4.81e-03	**																			
+Functional Modules	Rhamnose Degradation	Enterotype	P	-0.125	1.40e-01																				
+Functional Modules	Aspartate Degradation I	Phenotype	GESPIC	-0.223	2.72e-02	*																			
+Functional Modules	Aspartate Degradation I	Medication	NSAIDs_current	-0.062	7.01e-01																				
+Functional Modules	Aspartate Degradation I	Demographic	Age	0.102	1.65e-01																				
+Functional Modules	Aspartate Degradation I	Demographic	Sex	0.043	6.02e-01																				
+Functional Modules	Aspartate Degradation I	Phenotype	HLAB27	-0.157	5.73e-02	*																			
+Functional Modules	Aspartate Degradation I	Medication	Antibiotics_recent	0.047	9.79e-01																				
+Functional Modules	Aspartate Degradation I	Inflammation	CRP	-0.137	2.23e-02		*																		
+Functional Modules	Aspartate Degradation I	Medication	Corticoids_current	-0.133	9.23e-01																				
+Functional Modules	Aspartate Degradation I	Medication	Corticoids_ever	-0.067	9.50e-01																				
+Functional Modules	Aspartate Degradation I	Medication	csDMARDs_ever	-0.024	7.82e-01																				
+Functional Modules	Aspartate Degradation I	Medication	csDMARDs_current	-0.055	9.40e-01																				
+Functional Modules	Aspartate Degradation I	Inflammation	ESR	-0.033	7.03e-01																				
+Functional Modules	Aspartate Degradation I	Demographic	BMI	0.021	9.41e-01																				
+Functional Modules	Aspartate Degradation I	Phenotype	CD	0.056	6.00e-01																				
+Functional Modules	Aspartate Degradation I	Phenotype	AAU	-0.043	5.64e-01																				
+Functional Modules	Aspartate Degradation I	Phenotype	SpA	-0.141	9.54e-02	*																			
+Functional Modules	Aspartate Degradation I	Enterotype	B1	-0.073	2.90e-01																				
+Functional Modules	Aspartate Degradation I	Enterotype	B2	0.122	7.53e-02		*																		
+Functional Modules	Aspartate Degradation I	Enterotype	P	-0.065	4.50e-01																				
+Functional Modules	Arginine Degradation V	Phenotype	GESPIC	-0.305	1.40e-03	**																			
+Functional Modules	Arginine Degradation V	Medication	NSAIDs_current	-0.11	6.44e-01																				
+Functional Modules	Arginine Degradation V	Demographic	Age	0.106	1.62e-01																				
+Functional Modules	Arginine Degradation V	Demographic	Sex	0.17	5.42e-02	*																			
+Functional Modules	Arginine Degradation V	Phenotype	HLAB27	-0.195	1.81e-02		*																		
+Functional Modules	Arginine Degradation V	Medication	Antibiotics_recent	0.149	7.87e-01																				
+Functional Modules	Arginine Degradation V	Inflammation	CRP	-0.208	2.26e-03		**																		
+Functional Modules	Arginine Degradation V	Medication	Corticoids_current	-0.129	9.23e-01																				
+Functional Modules	Arginine Degradation V	Medication	Corticoids_ever	-0.066	9.50e-01																				
+Functional Modules	Arginine Degradation V	Medication	csDMARDs_ever	-0.056	5.52e-01																				
+Functional Modules	Arginine Degradation V	Medication	csDMARDs_current	-0.124	9.40e-01																				
+Functional Modules	Arginine Degradation V	Inflammation	ESR	-0.078	2.92e-01																				
+Functional Modules	Arginine Degradation V	Demographic	BMI	-0.037	8.17e-01																				
+Functional Modules	Arginine Degradation V	Phenotype	CD	0.063	5.38e-01																				
+Functional Modules	Arginine Degradation V	Phenotype	AAU	-0.064	4.21e-01																				
+Functional Modules	Arginine Degradation V	Phenotype	SpA	-0.25	9.06e-04	***																			
+Functional Modules	Arginine Degradation V	Enterotype	B1	0.174	8.40e-03		**																		
+Functional Modules	Arginine Degradation V	Enterotype	B2	0.219	1.28e-03		**																		
+Functional Modules	Arginine Degradation V	Enterotype	P	-0.687	3.29e-16	***																			
+Functional Modules	Histidine Degradation	Phenotype	GESPIC	0.185	7.96e-02	*																			
+Functional Modules	Histidine Degradation	Medication	NSAIDs_current	0.057	7.01e-01																				
+Functional Modules	Histidine Degradation	Demographic	Age	0.062	4.08e-01																				
+Functional Modules	Histidine Degradation	Demographic	Sex	0.075	3.69e-01																				
+Functional Modules	Histidine Degradation	Phenotype	HLAB27	0.006	9.45e-01																				
+Functional Modules	Histidine Degradation	Medication	Antibiotics_recent	0.075	9.76e-01																				
+Functional Modules	Histidine Degradation	Inflammation	CRP	0.019	8.14e-01																				
+Functional Modules	Histidine Degradation	Medication	Corticoids_current	-0.163	9.23e-01																				
+Functional Modules	Histidine Degradation	Medication	Corticoids_ever	0.05	9.50e-01																				
+Functional Modules	Histidine Degradation	Medication	csDMARDs_ever	0.108	2.70e-01																				
+Functional Modules	Histidine Degradation	Medication	csDMARDs_current	-0.026	9.40e-01																				
+Functional Modules	Histidine Degradation	Inflammation	ESR	-0.018	8.47e-01																				
+Functional Modules	Histidine Degradation	Demographic	BMI	-0.012	9.42e-01																				
+Functional Modules	Histidine Degradation	Phenotype	CD	0.122	1.63e-01																				
+Functional Modules	Histidine Degradation	Phenotype	AAU	-0.116	2.10e-01																				
+Functional Modules	Histidine Degradation	Phenotype	SpA	0.091	2.89e-01																				
+Functional Modules	Histidine Degradation	Enterotype	B1	0.073	2.90e-01																				
+Functional Modules	Histidine Degradation	Enterotype	B2	0.211	1.83e-03		**																		
+Functional Modules	Histidine Degradation	Enterotype	P	-0.485	8.58e-09	***																			
+Functional Modules	Acetate To Acetyl-Coa	Phenotype	GESPIC	0.038	6.99e-01																				
+Functional Modules	Acetate To Acetyl-Coa	Medication	NSAIDs_current	0.068	7.01e-01																				
+Functional Modules	Acetate To Acetyl-Coa	Demographic	Age	0.123	1.13e-01																				
+Functional Modules	Acetate To Acetyl-Coa	Demographic	Sex	-0.042	6.02e-01																				
+Functional Modules	Acetate To Acetyl-Coa	Phenotype	HLAB27	0.106	2.20e-01																				
+Functional Modules	Acetate To Acetyl-Coa	Medication	Antibiotics_recent	-0.163	6.58e-01																				
+Functional Modules	Acetate To Acetyl-Coa	Inflammation	CRP	-0.003	9.72e-01																				
+Functional Modules	Acetate To Acetyl-Coa	Medication	Corticoids_current	0.061	9.23e-01																				
+Functional Modules	Acetate To Acetyl-Coa	Medication	Corticoids_ever	0.041	9.56e-01																				
+Functional Modules	Acetate To Acetyl-Coa	Medication	csDMARDs_ever	-0.12	2.14e-01																				
+Functional Modules	Acetate To Acetyl-Coa	Medication	csDMARDs_current	-0.143	8.48e-01																				
+Functional Modules	Acetate To Acetyl-Coa	Inflammation	ESR	-0.004	9.58e-01																				
+Functional Modules	Acetate To Acetyl-Coa	Demographic	BMI	0.109	3.26e-01																				
+Functional Modules	Acetate To Acetyl-Coa	Phenotype	CD	-0.228	4.68e-03	**																			
+Functional Modules	Acetate To Acetyl-Coa	Phenotype	AAU	0.12	2.10e-01																				
+Functional Modules	Acetate To Acetyl-Coa	Phenotype	SpA	0.07	3.90e-01																				
+Functional Modules	Acetate To Acetyl-Coa	Enterotype	B1	0.039	5.94e-01																				
+Functional Modules	Acetate To Acetyl-Coa	Enterotype	B2	-0.429	3.12e-10	***																			
+Functional Modules	Acetate To Acetyl-Coa	Enterotype	P	0.633	5.12e-14	***																			
+Functional Modules	4-Aminobutyrate Degradation	Phenotype	GESPIC	0.351	1.59e-04	***																			
+Functional Modules	4-Aminobutyrate Degradation	Medication	NSAIDs_current	-0.111	6.44e-01																				
+Functional Modules	4-Aminobutyrate Degradation	Demographic	Age	0.086	2.42e-01																				
+Functional Modules	4-Aminobutyrate Degradation	Demographic	Sex	-0.016	8.68e-01																				
+Functional Modules	4-Aminobutyrate Degradation	Phenotype	HLAB27	-0.027	8.81e-01																				
+Functional Modules	4-Aminobutyrate Degradation	Medication	Antibiotics_recent	0.065	9.79e-01																				
+Functional Modules	4-Aminobutyrate Degradation	Inflammation	CRP	0.18	4.32e-03		**																		
+Functional Modules	4-Aminobutyrate Degradation	Medication	Corticoids_current	-0.06	9.23e-01																				
+Functional Modules	4-Aminobutyrate Degradation	Medication	Corticoids_ever	-0.057	9.50e-01																				
+Functional Modules	4-Aminobutyrate Degradation	Medication	csDMARDs_ever	0.167	9.02e-02		*																		
+Functional Modules	4-Aminobutyrate Degradation	Medication	csDMARDs_current	0.024	9.40e-01																				
+Functional Modules	4-Aminobutyrate Degradation	Inflammation	ESR	0.17	2.00e-02	*																			
+Functional Modules	4-Aminobutyrate Degradation	Demographic	BMI	-0.035	8.40e-01																				
+Functional Modules	4-Aminobutyrate Degradation	Phenotype	CD	0.257	1.15e-03	**																			
+Functional Modules	4-Aminobutyrate Degradation	Phenotype	AAU	0.039	5.97e-01																				
+Functional Modules	4-Aminobutyrate Degradation	Phenotype	SpA	0.056	4.93e-01																				
+Functional Modules	4-Aminobutyrate Degradation	Enterotype	B1	0.034	6.47e-01																				
+Functional Modules	4-Aminobutyrate Degradation	Enterotype	B2	0.043	5.22e-01																				
+Functional Modules	4-Aminobutyrate Degradation	Enterotype	P	-0.134	1.16e-01																				
+Functional Modules	Succinate Consumption	Phenotype	GESPIC	0.187	7.93e-02	*																			
+Functional Modules	Succinate Consumption	Medication	NSAIDs_current	0.073	7.01e-01																				
+Functional Modules	Succinate Consumption	Demographic	Age	0.029	7.20e-01																				
+Functional Modules	Succinate Consumption	Demographic	Sex	-0.038	6.36e-01																				
+Functional Modules	Succinate Consumption	Phenotype	HLAB27	0.021	9.32e-01																				
+Functional Modules	Succinate Consumption	Medication	Antibiotics_recent	0.116	8.15e-01																				
+Functional Modules	Succinate Consumption	Inflammation	CRP	0.118	4.93e-02		*																		
+Functional Modules	Succinate Consumption	Medication	Corticoids_current	-0.138	9.23e-01																				
+Functional Modules	Succinate Consumption	Medication	Corticoids_ever	0.086	9.50e-01																				
+Functional Modules	Succinate Consumption	Medication	csDMARDs_ever	0.129	1.95e-01																				
+Functional Modules	Succinate Consumption	Medication	csDMARDs_current	0.082	9.40e-01																				
+Functional Modules	Succinate Consumption	Inflammation	ESR	-0.017	8.47e-01																				
+Functional Modules	Succinate Consumption	Demographic	BMI	-0.013	9.42e-01																				
+Functional Modules	Succinate Consumption	Phenotype	CD	0.118	1.80e-01																				
+Functional Modules	Succinate Consumption	Phenotype	AAU	-0.116	2.10e-01																				
+Functional Modules	Succinate Consumption	Phenotype	SpA	0.076	3.73e-01																				
+Functional Modules	Succinate Consumption	Enterotype	B1	-0.07	3.05e-01																				
+Functional Modules	Succinate Consumption	Enterotype	B2	0.308	5.95e-06	***																			
+Functional Modules	Succinate Consumption	Enterotype	P	-0.375	9.71e-06	***																			
+Functional Modules	Urea Degradation	Phenotype	GESPIC	-0.458	1.03e-06	***																			
+Functional Modules	Urea Degradation	Medication	NSAIDs_current	-0.041	7.76e-01																				
+Functional Modules	Urea Degradation	Demographic	Age	0.071	3.22e-01																				
+Functional Modules	Urea Degradation	Demographic	Sex	0.178	5.05e-02	*																			
+Functional Modules	Urea Degradation	Phenotype	HLAB27	-0.287	2.11e-04	***																			
+Functional Modules	Urea Degradation	Medication	Antibiotics_recent	0.195	5.47e-01																				
+Functional Modules	Urea Degradation	Inflammation	CRP	-0.19	3.30e-03		**																		
+Functional Modules	Urea Degradation	Medication	Corticoids_current	-0.192	9.23e-01																				
+Functional Modules	Urea Degradation	Medication	Corticoids_ever	-0.064	9.50e-01																				
+Functional Modules	Urea Degradation	Medication	csDMARDs_ever	-0.024	7.82e-01																				
+Functional Modules	Urea Degradation	Medication	csDMARDs_current	-0.072	9.40e-01																				
+Functional Modules	Urea Degradation	Inflammation	ESR	-0.065	4.02e-01																				
+Functional Modules	Urea Degradation	Demographic	BMI	-0.066	5.83e-01																				
+Functional Modules	Urea Degradation	Phenotype	CD	0.089	3.44e-01																				
+Functional Modules	Urea Degradation	Phenotype	AAU	-0.215	1.77e-02		*																		
+Functional Modules	Urea Degradation	Phenotype	SpA	-0.281	3.52e-04	***																			
+Functional Modules	Urea Degradation	Enterotype	B1	0.029	6.75e-01																				
+Functional Modules	Urea Degradation	Enterotype	B2	0.313	4.33e-06	***																			
+Functional Modules	Urea Degradation	Enterotype	P	-0.57	1.24e-11	***																			
+Functional Modules	Acetyl-Coa To Acetate	Phenotype	GESPIC	-0.169	1.05e-01																				
+Functional Modules	Acetyl-Coa To Acetate	Medication	NSAIDs_current	-0.104	6.44e-01																				
+Functional Modules	Acetyl-Coa To Acetate	Demographic	Age	0.115	1.45e-01																				
+Functional Modules	Acetyl-Coa To Acetate	Demographic	Sex	0.105	2.15e-01																				
+Functional Modules	Acetyl-Coa To Acetate	Phenotype	HLAB27	-0.066	5.07e-01																				
+Functional Modules	Acetyl-Coa To Acetate	Medication	Antibiotics_recent	0.079	9.76e-01																				
+Functional Modules	Acetyl-Coa To Acetate	Inflammation	CRP	-0.155	1.54e-02		*																		
+Functional Modules	Acetyl-Coa To Acetate	Medication	Corticoids_current	-0.083	9.23e-01																				
+Functional Modules	Acetyl-Coa To Acetate	Medication	Corticoids_ever	-0.119	9.50e-01																				
+Functional Modules	Acetyl-Coa To Acetate	Medication	csDMARDs_ever	-0.032	7.41e-01																				
+Functional Modules	Acetyl-Coa To Acetate	Medication	csDMARDs_current	-0.039	9.40e-01																				
+Functional Modules	Acetyl-Coa To Acetate	Inflammation	ESR	-0.153	2.86e-02	*																			
+Functional Modules	Acetyl-Coa To Acetate	Demographic	BMI	-0.079	5.77e-01																				
+Functional Modules	Acetyl-Coa To Acetate	Phenotype	CD	-0.026	8.26e-01																				
+Functional Modules	Acetyl-Coa To Acetate	Phenotype	AAU	0.067	4.06e-01																				
+Functional Modules	Acetyl-Coa To Acetate	Phenotype	SpA	-0.156	6.84e-02		*																		
+Functional Modules	Acetyl-Coa To Acetate	Enterotype	B1	0.465	7.05e-14	***																			
+Functional Modules	Acetyl-Coa To Acetate	Enterotype	B2	-0.105	1.27e-01																				
+Functional Modules	Acetyl-Coa To Acetate	Enterotype	P	-0.699	1.02e-16	***																			
+Functional Modules	Butyrate Production I	Phenotype	GESPIC	-0.055	5.59e-01																				
+Functional Modules	Butyrate Production I	Medication	NSAIDs_current	-0.037	8.02e-01																				
+Functional Modules	Butyrate Production I	Demographic	Age	0.094	2.08e-01																				
+Functional Modules	Butyrate Production I	Demographic	Sex	0.123	1.33e-01																				
+Functional Modules	Butyrate Production I	Phenotype	HLAB27	-0.131	1.09e-01																				
+Functional Modules	Butyrate Production I	Medication	Antibiotics_recent	0.298	2.95e-01																				
+Functional Modules	Butyrate Production I	Inflammation	CRP	-0.104	8.46e-02	*																			
+Functional Modules	Butyrate Production I	Medication	Corticoids_current	-0.245	9.23e-01																				
+Functional Modules	Butyrate Production I	Medication	Corticoids_ever	-0.047	9.54e-01																				
+Functional Modules	Butyrate Production I	Medication	csDMARDs_ever	0.127	1.97e-01																				
+Functional Modules	Butyrate Production I	Medication	csDMARDs_current	-0.021	9.40e-01																				
+Functional Modules	Butyrate Production I	Inflammation	ESR	-0.082	2.66e-01																				
+Functional Modules	Butyrate Production I	Demographic	BMI	-0.024	8.99e-01																				
+Functional Modules	Butyrate Production I	Phenotype	CD	0.178	3.05e-02		*																		
+Functional Modules	Butyrate Production I	Phenotype	AAU	-0.175	4.68e-02	*																			
+Functional Modules	Butyrate Production I	Phenotype	SpA	-0.073	3.79e-01																				
+Functional Modules	Butyrate Production I	Enterotype	B1	0.05	4.96e-01																				
+Functional Modules	Butyrate Production I	Enterotype	B2	0.356	1.89e-07	***																			
+Functional Modules	Butyrate Production I	Enterotype	P	-0.68	6.28e-16	***																			
+Functional Modules	Butyrate Production Ii	Phenotype	GESPIC	0.104	3.23e-01																				
+Functional Modules	Butyrate Production Ii	Medication	NSAIDs_current	-0.139	4.53e-01																				
+Functional Modules	Butyrate Production Ii	Demographic	Age	0.124	1.13e-01																				
+Functional Modules	Butyrate Production Ii	Demographic	Sex	0.129	1.15e-01																				
+Functional Modules	Butyrate Production Ii	Phenotype	HLAB27	0.009	9.45e-01																				
+Functional Modules	Butyrate Production Ii	Medication	Antibiotics_recent	0.001	9.98e-01																				
+Functional Modules	Butyrate Production Ii	Inflammation	CRP	0.018	8.14e-01																				
+Functional Modules	Butyrate Production Ii	Medication	Corticoids_current	-0.027	9.37e-01																				
+Functional Modules	Butyrate Production Ii	Medication	Corticoids_ever	-0.062	9.50e-01																				
+Functional Modules	Butyrate Production Ii	Medication	csDMARDs_ever	0.101	3.01e-01																				
+Functional Modules	Butyrate Production Ii	Medication	csDMARDs_current	-0.043	9.40e-01																				
+Functional Modules	Butyrate Production Ii	Inflammation	ESR	0.013	8.66e-01																				
+Functional Modules	Butyrate Production Ii	Demographic	BMI	-0.142	1.87e-01																				
+Functional Modules	Butyrate Production Ii	Phenotype	CD	0.064	5.31e-01																				
+Functional Modules	Butyrate Production Ii	Phenotype	AAU	0.081	3.11e-01																				
+Functional Modules	Butyrate Production Ii	Phenotype	SpA	0.006	9.83e-01																				
+Functional Modules	Butyrate Production Ii	Enterotype	B1	0.301	2.11e-06	***																			
+Functional Modules	Butyrate Production Ii	Enterotype	B2	-0.22	1.26e-03		**																		
+Functional Modules	Butyrate Production Ii	Enterotype	P	-0.203	1.77e-02		*																		
+Functional Modules	Propionate Production Iii	Phenotype	GESPIC	0.215	3.41e-02		*																		
+Functional Modules	Propionate Production Iii	Medication	NSAIDs_current	-0.056	7.01e-01																				
+Functional Modules	Propionate Production Iii	Demographic	Age	0.048	5.31e-01																				
+Functional Modules	Propionate Production Iii	Demographic	Sex	0.096	2.71e-01																				
+Functional Modules	Propionate Production Iii	Phenotype	HLAB27	-0.048	7.04e-01																				
+Functional Modules	Propionate Production Iii	Medication	Antibiotics_recent	0.197	5.47e-01																				
+Functional Modules	Propionate Production Iii	Inflammation	CRP	0.033	6.61e-01																				
+Functional Modules	Propionate Production Iii	Medication	Corticoids_current	-0.077	9.23e-01																				
+Functional Modules	Propionate Production Iii	Medication	Corticoids_ever	0.038	9.56e-01																				
+Functional Modules	Propionate Production Iii	Medication	csDMARDs_ever	0.306	1.47e-03	**																			
+Functional Modules	Propionate Production Iii	Medication	csDMARDs_current	0.189	4.46e-01																				
+Functional Modules	Propionate Production Iii	Inflammation	ESR	0.042	6.18e-01																				
+Functional Modules	Propionate Production Iii	Demographic	BMI	-0.105	3.30e-01																				
+Functional Modules	Propionate Production Iii	Phenotype	CD	0.269	6.53e-04		***																		
+Functional Modules	Propionate Production Iii	Phenotype	AAU	-0.094	2.83e-01																				
+Functional Modules	Propionate Production Iii	Phenotype	SpA	0.013	9.32e-01																				
+Functional Modules	Propionate Production Iii	Enterotype	B1	0.112	1.08e-01																				
+Functional Modules	Propionate Production Iii	Enterotype	B2	0.225	9.88e-04		***																		
+Functional Modules	Propionate Production Iii	Enterotype	P	-0.58	5.39e-12	***																			
+Functional Modules	Succinate Production	Phenotype	GESPIC	0.139	1.75e-01																				
+Functional Modules	Succinate Production	Medication	NSAIDs_current	0.04	7.76e-01																				
+Functional Modules	Succinate Production	Demographic	Age	-0.031	7.19e-01																				
+Functional Modules	Succinate Production	Demographic	Sex	-0.077	3.69e-01																				
+Functional Modules	Succinate Production	Phenotype	HLAB27	0.046	7.05e-01																				
+Functional Modules	Succinate Production	Medication	Antibiotics_recent	-0.025	9.79e-01																				
+Functional Modules	Succinate Production	Inflammation	CRP	0.126	3.76e-02		*																		
+Functional Modules	Succinate Production	Medication	Corticoids_current	0.037	9.37e-01																				
+Functional Modules	Succinate Production	Medication	Corticoids_ever	0.069	9.50e-01																				
+Functional Modules	Succinate Production	Medication	csDMARDs_ever	0.124	2.00e-01																				
+Functional Modules	Succinate Production	Medication	csDMARDs_current	0.076	9.40e-01																				
+Functional Modules	Succinate Production	Inflammation	ESR	0.098	1.83e-01																				
+Functional Modules	Succinate Production	Demographic	BMI	0.048	7.37e-01																				
+Functional Modules	Succinate Production	Phenotype	CD	-0.001	9.89e-01																				
+Functional Modules	Succinate Production	Phenotype	AAU	-0.022	7.50e-01																				
+Functional Modules	Succinate Production	Phenotype	SpA	0.141	9.54e-02		*																		
+Functional Modules	Succinate Production	Enterotype	B1	-0.288	5.65e-06		***																		
+Functional Modules	Succinate Production	Enterotype	B2	-0.083	2.22e-01																				
+Functional Modules	Succinate Production	Enterotype	P	0.678	6.89e-16	***																			
+Functional Modules	Homoacetogenesis	Phenotype	GESPIC	-0.421	4.65e-06	***																			
+Functional Modules	Homoacetogenesis	Medication	NSAIDs_current	-0.048	7.42e-01																				
+Functional Modules	Homoacetogenesis	Demographic	Age	0.103	1.65e-01																				
+Functional Modules	Homoacetogenesis	Demographic	Sex	0.195	3.87e-02	*																			
+Functional Modules	Homoacetogenesis	Phenotype	HLAB27	-0.269	4.32e-04	***																			
+Functional Modules	Homoacetogenesis	Medication	Antibiotics_recent	0.076	9.76e-01																				
+Functional Modules	Homoacetogenesis	Inflammation	CRP	-0.179	4.47e-03		**																		
+Functional Modules	Homoacetogenesis	Medication	Corticoids_current	-0.181	9.23e-01																				
+Functional Modules	Homoacetogenesis	Medication	Corticoids_ever	-0.037	9.56e-01																				
+Functional Modules	Homoacetogenesis	Medication	csDMARDs_ever	-0.019	8.08e-01																				
+Functional Modules	Homoacetogenesis	Medication	csDMARDs_current	-0.068	9.40e-01																				
+Functional Modules	Homoacetogenesis	Inflammation	ESR	-0.072	3.32e-01																				
+Functional Modules	Homoacetogenesis	Demographic	BMI	-0.074	5.78e-01																				
+Functional Modules	Homoacetogenesis	Phenotype	CD	0.101	2.63e-01																				
+Functional Modules	Homoacetogenesis	Phenotype	AAU	-0.19	3.20e-02		*																		
+Functional Modules	Homoacetogenesis	Phenotype	SpA	-0.265	5.18e-04	***																			
+Functional Modules	Homoacetogenesis	Enterotype	B1	0.04	5.90e-01																				
+Functional Modules	Homoacetogenesis	Enterotype	B2	0.336	8.32e-07	***																			
+Functional Modules	Homoacetogenesis	Enterotype	P	-0.628	8.07e-14	***																			
+Functional Modules	Sulfate Reduction (Dissimilatory)	Phenotype	GESPIC	-0.34	2.61e-04	***																			
+Functional Modules	Sulfate Reduction (Dissimilatory)	Medication	NSAIDs_current	0.05	7.40e-01																				
+Functional Modules	Sulfate Reduction (Dissimilatory)	Demographic	Age	0.054	4.77e-01																				
+Functional Modules	Sulfate Reduction (Dissimilatory)	Demographic	Sex	0.083	3.31e-01																				
+Functional Modules	Sulfate Reduction (Dissimilatory)	Phenotype	HLAB27	-0.139	8.68e-02		*																		
+Functional Modules	Sulfate Reduction (Dissimilatory)	Medication	Antibiotics_recent	-0.066	9.79e-01																				
+Functional Modules	Sulfate Reduction (Dissimilatory)	Inflammation	CRP	-0.186	3.30e-03		**																		
+Functional Modules	Sulfate Reduction (Dissimilatory)	Medication	Corticoids_current	-0.077	9.23e-01																				
+Functional Modules	Sulfate Reduction (Dissimilatory)	Medication	Corticoids_ever	0.028	9.56e-01																				
+Functional Modules	Sulfate Reduction (Dissimilatory)	Medication	csDMARDs_ever	-0.073	4.64e-01																				
+Functional Modules	Sulfate Reduction (Dissimilatory)	Medication	csDMARDs_current	-0.058	9.40e-01																				
+Functional Modules	Sulfate Reduction (Dissimilatory)	Inflammation	ESR	-0.083	2.66e-01																				
+Functional Modules	Sulfate Reduction (Dissimilatory)	Demographic	BMI	-0.077	5.78e-01																				
+Functional Modules	Sulfate Reduction (Dissimilatory)	Phenotype	CD	-0.003	9.89e-01																				
+Functional Modules	Sulfate Reduction (Dissimilatory)	Phenotype	AAU	-0.112	2.32e-01																				
+Functional Modules	Sulfate Reduction (Dissimilatory)	Phenotype	SpA	-0.172	3.35e-02		*																		
+Functional Modules	Sulfate Reduction (Dissimilatory)	Enterotype	B1	0.118	8.91e-02		*																		
+Functional Modules	Sulfate Reduction (Dissimilatory)	Enterotype	B2	0.213	1.65e-03		**																		
+Functional Modules	Sulfate Reduction (Dissimilatory)	Enterotype	P	-0.572	1.07e-11	***																			
+Functional Modules	Mucin Degradation	Phenotype	GESPIC	0.209	4.05e-02	*																			
+Functional Modules	Mucin Degradation	Medication	NSAIDs_current	-0.009	9.49e-01																				
+Functional Modules	Mucin Degradation	Demographic	Age	-0.015	8.69e-01																				
+Functional Modules	Mucin Degradation	Demographic	Sex	0.083	3.31e-01																				
+Functional Modules	Mucin Degradation	Phenotype	HLAB27	-0.037	7.78e-01																				
+Functional Modules	Mucin Degradation	Medication	Antibiotics_recent	0.038	9.79e-01																				
+Functional Modules	Mucin Degradation	Inflammation	CRP	0.033	6.63e-01																				
+Functional Modules	Mucin Degradation	Medication	Corticoids_current	-0.191	9.23e-01																				
+Functional Modules	Mucin Degradation	Medication	Corticoids_ever	0.043	9.56e-01																				
+Functional Modules	Mucin Degradation	Medication	csDMARDs_ever	0.152	1.31e-01																				
+Functional Modules	Mucin Degradation	Medication	csDMARDs_current	0.083	9.40e-01																				
+Functional Modules	Mucin Degradation	Inflammation	ESR	0.002	9.74e-01																				
+Functional Modules	Mucin Degradation	Demographic	BMI	-0.024	8.99e-01																				
+Functional Modules	Mucin Degradation	Phenotype	CD	0.173	3.59e-02		*																		
+Functional Modules	Mucin Degradation	Phenotype	AAU	-0.092	2.83e-01																				
+Functional Modules	Mucin Degradation	Phenotype	SpA	0	9.99e-01																				
+Functional Modules	Mucin Degradation	Enterotype	B1	0.001	9.98e-01																				
+Functional Modules	Mucin Degradation	Enterotype	B2	0.373	4.51e-08	***																			
+Functional Modules	Mucin Degradation	Enterotype	P	-0.616	2.21e-13	***																			
+16S Taxa	Prevotella 9	Phenotype	GESPIC	-0.276	1.02e-02	*																			
+16S Taxa	Prevotella 9	Medication	NSAIDs_current	0.204	1.88e-01																				
+16S Taxa	Prevotella 9	Demographic	Age	-0.062	5.82e-01																				
+16S Taxa	Prevotella 9	Demographic	Sex	-0.175	2.14e-01																				
+16S Taxa	Prevotella 9	Phenotype	HLAB27	0.125	2.64e-01																				
+16S Taxa	Prevotella 9	Medication	Antibiotics_recent	-0.135	6.07e-01																				
+16S Taxa	Prevotella 9	Inflammation	CRP	0.002	9.84e-01																				
+16S Taxa	Prevotella 9	Medication	Corticoids_current	0.14	8.52e-01																				
+16S Taxa	Prevotella 9	Medication	Corticoids_ever	-0.031	9.62e-01																				
+16S Taxa	Prevotella 9	Medication	csDMARDs_ever	-0.193	6.36e-02		*																		
+16S Taxa	Prevotella 9	Medication	csDMARDs_current	-0.118	5.67e-01																				
+16S Taxa	Prevotella 9	Inflammation	ESR	0.022	9.54e-01																				
+16S Taxa	Prevotella 9	Demographic	BMI	0.062	7.28e-01																				
+16S Taxa	Prevotella 9	Phenotype	CD	-0.266	1.84e-03	**																			
+16S Taxa	Prevotella 9	Phenotype	AAU	-0.031	8.78e-01																				
+16S Taxa	Prevotella 9	Phenotype	SpA	0.1	5.43e-01																				
+16S Taxa	Prevotella 9	Enterotype	B1	-0.122	6.70e-02	*																			
+16S Taxa	Prevotella 9	Enterotype	B2	-0.457	9.71e-12	***																			
+16S Taxa	Prevotella 9	Enterotype	P	0.98	3.19e-30	***																			
+16S Taxa	Lachnospiraceae FCS020 group	Phenotype	GESPIC	-0.316	3.11e-03	**																			
+16S Taxa	Lachnospiraceae FCS020 group	Medication	NSAIDs_current	0.073	8.58e-01																				
+16S Taxa	Lachnospiraceae FCS020 group	Demographic	Age	-0.059	5.96e-01																				
+16S Taxa	Lachnospiraceae FCS020 group	Demographic	Sex	-0.006	9.42e-01																				
+16S Taxa	Lachnospiraceae FCS020 group	Phenotype	HLAB27	0.024	8.83e-01																				
+16S Taxa	Lachnospiraceae FCS020 group	Medication	Antibiotics_recent	-0.318	2.47e-01																				
+16S Taxa	Lachnospiraceae FCS020 group	Inflammation	CRP	-0.172	9.91e-03	**																			
+16S Taxa	Lachnospiraceae FCS020 group	Medication	Corticoids_current	0.05	9.45e-01																				
+16S Taxa	Lachnospiraceae FCS020 group	Medication	Corticoids_ever	-0.071	8.59e-01																				
+16S Taxa	Lachnospiraceae FCS020 group	Medication	csDMARDs_ever	-0.226	3.87e-02		*																		
+16S Taxa	Lachnospiraceae FCS020 group	Medication	csDMARDs_current	-0.244	1.32e-01																				
+16S Taxa	Lachnospiraceae FCS020 group	Inflammation	ESR	-0.11	4.13e-01																				
+16S Taxa	Lachnospiraceae FCS020 group	Demographic	BMI	-0.013	9.11e-01																				
+16S Taxa	Lachnospiraceae FCS020 group	Phenotype	CD	-0.283	5.79e-04	***																			
+16S Taxa	Lachnospiraceae FCS020 group	Phenotype	AAU	0.049	6.98e-01																				
+16S Taxa	Lachnospiraceae FCS020 group	Phenotype	SpA	-0.05	7.99e-01																				
+16S Taxa	Lachnospiraceae FCS020 group	Enterotype	B1	0.384	8.06e-10		***																		
+16S Taxa	Lachnospiraceae FCS020 group	Enterotype	B2	-0.525	2.02e-15	***																			
+16S Taxa	Lachnospiraceae FCS020 group	Enterotype	P	0.143	1.78e-01																				
+16S Taxa	Roseburia	Phenotype	GESPIC	-0.306	4.64e-03	**																			
+16S Taxa	Roseburia	Medication	NSAIDs_current	0.143	3.91e-01																				
+16S Taxa	Roseburia	Demographic	Age	-0.085	3.76e-01																				
+16S Taxa	Roseburia	Demographic	Sex	-0.047	7.61e-01																				
+16S Taxa	Roseburia	Phenotype	HLAB27	0.07	5.38e-01																				
+16S Taxa	Roseburia	Medication	Antibiotics_recent	-0.19	4.63e-01																				
+16S Taxa	Roseburia	Inflammation	CRP	-0.172	9.91e-03	**																			
+16S Taxa	Roseburia	Medication	Corticoids_current	-0.195	7.36e-01																				
+16S Taxa	Roseburia	Medication	Corticoids_ever	0.024	9.62e-01																				
+16S Taxa	Roseburia	Medication	csDMARDs_ever	-0.241	3.80e-02		*																		
+16S Taxa	Roseburia	Medication	csDMARDs_current	-0.164	3.65e-01																				
+16S Taxa	Roseburia	Inflammation	ESR	-0.104	4.64e-01																				
+16S Taxa	Roseburia	Demographic	BMI	-0.032	8.20e-01																				
+16S Taxa	Roseburia	Phenotype	CD	-0.337	3.28e-05	***																			
+16S Taxa	Roseburia	Phenotype	AAU	0.084	4.05e-01																				
+16S Taxa	Roseburia	Phenotype	SpA	-0.08	6.64e-01																				
+16S Taxa	Roseburia	Enterotype	B1	0.269	2.76e-05	***																			
+16S Taxa	Roseburia	Enterotype	B2	-0.224	1.04e-03		**																		
+16S Taxa	Roseburia	Enterotype	P	-0.136	2.11e-01																				
+16S Taxa	Faecalibacterium sp. UBA1819	Phenotype	GESPIC	0.209	5.94e-02	*																			
+16S Taxa	Faecalibacterium sp. UBA1819	Medication	NSAIDs_current	-0.049	8.75e-01																				
+16S Taxa	Faecalibacterium sp. UBA1819	Demographic	Age	0.016	9.08e-01																				
+16S Taxa	Faecalibacterium sp. UBA1819	Demographic	Sex	0.067	6.80e-01																				
+16S Taxa	Faecalibacterium sp. UBA1819	Phenotype	HLAB27	0.033	8.33e-01																				
+16S Taxa	Faecalibacterium sp. UBA1819	Medication	Antibiotics_recent	-0.009	9.96e-01																				
+16S Taxa	Faecalibacterium sp. UBA1819	Inflammation	CRP	0.011	9.36e-01																				
+16S Taxa	Faecalibacterium sp. UBA1819	Medication	Corticoids_current	0.056	9.45e-01																				
+16S Taxa	Faecalibacterium sp. UBA1819	Medication	Corticoids_ever	0.136	6.04e-01																				
+16S Taxa	Faecalibacterium sp. UBA1819	Medication	csDMARDs_ever	0.212	3.87e-02	*																			
+16S Taxa	Faecalibacterium sp. UBA1819	Medication	csDMARDs_current	0.114	5.67e-01																				
+16S Taxa	Faecalibacterium sp. UBA1819	Inflammation	ESR	-0.061	7.09e-01																				
+16S Taxa	Faecalibacterium sp. UBA1819	Demographic	BMI	-0.108	4.66e-01																				
+16S Taxa	Faecalibacterium sp. UBA1819	Phenotype	CD	0.171	4.26e-02		*																		
+16S Taxa	Faecalibacterium sp. UBA1819	Phenotype	AAU	-0.028	8.88e-01																				
+16S Taxa	Faecalibacterium sp. UBA1819	Phenotype	SpA	0.063	7.02e-01																				
+16S Taxa	Faecalibacterium sp. UBA1819	Enterotype	B1	0.139	3.03e-02		*																		
+16S Taxa	Faecalibacterium sp. UBA1819	Enterotype	B2	0.154	2.22e-02		*																		
+16S Taxa	Faecalibacterium sp. UBA1819	Enterotype	P	-0.514	3.51e-09	***																			
+16S Taxa	Fusicatenibacter	Phenotype	GESPIC	-0.361	4.79e-04	***																			
+16S Taxa	Fusicatenibacter	Medication	NSAIDs_current	0.014	9.92e-01																				
+16S Taxa	Fusicatenibacter	Demographic	Age	-0.035	8.01e-01																				
+16S Taxa	Fusicatenibacter	Demographic	Sex	0.073	6.80e-01																				
+16S Taxa	Fusicatenibacter	Phenotype	HLAB27	0.01	9.55e-01																				
+16S Taxa	Fusicatenibacter	Medication	Antibiotics_recent	-0.125	6.24e-01																				
+16S Taxa	Fusicatenibacter	Inflammation	CRP	-0.271	2.52e-05	***																			
+16S Taxa	Fusicatenibacter	Medication	Corticoids_current	-0.096	8.74e-01																				
+16S Taxa	Fusicatenibacter	Medication	Corticoids_ever	-0.114	6.61e-01																				
+16S Taxa	Fusicatenibacter	Medication	csDMARDs_ever	-0.202	4.96e-02		*																		
+16S Taxa	Fusicatenibacter	Medication	csDMARDs_current	-0.137	4.67e-01																				
+16S Taxa	Fusicatenibacter	Inflammation	ESR	-0.185	6.67e-02		*																		
+16S Taxa	Fusicatenibacter	Demographic	BMI	-0.001	9.90e-01																				
+16S Taxa	Fusicatenibacter	Phenotype	CD	-0.236	5.40e-03	**																			
+16S Taxa	Fusicatenibacter	Phenotype	AAU	0.016	9.79e-01																				
+16S Taxa	Fusicatenibacter	Phenotype	SpA	-0.147	2.25e-01																				
+16S Taxa	Fusicatenibacter	Enterotype	B1	0.388	8.06e-10	***																			
+16S Taxa	Fusicatenibacter	Enterotype	B2	-0.212	1.97e-03	**																			
+16S Taxa	Fusicatenibacter	Enterotype	P	-0.379	4.00e-05	***																			
+16S Taxa	Rikenellaceae RC9 gut group	Phenotype	GESPIC	0.072	3.90e-01																				
+16S Taxa	Rikenellaceae RC9 gut group	Medication	NSAIDs_current	-0.002	9.96e-01																				
+16S Taxa	Rikenellaceae RC9 gut group	Demographic	Age	-0.05	6.76e-01																				
+16S Taxa	Rikenellaceae RC9 gut group	Demographic	Sex	-0.028	7.63e-01																				
+16S Taxa	Rikenellaceae RC9 gut group	Phenotype	HLAB27	0.119	4.08e-02	*																			
+16S Taxa	Rikenellaceae RC9 gut group	Medication	Antibiotics_recent	-0.128	4.54e-01																				
+16S Taxa	Rikenellaceae RC9 gut group	Inflammation	CRP	-0.014	9.20e-01																				
+16S Taxa	Rikenellaceae RC9 gut group	Medication	Corticoids_current	-0.064	8.74e-01																				
+16S Taxa	Rikenellaceae RC9 gut group	Medication	Corticoids_ever	-0.005	9.87e-01																				
+16S Taxa	Rikenellaceae RC9 gut group	Medication	csDMARDs_ever	-0.029	7.03e-01																				
+16S Taxa	Rikenellaceae RC9 gut group	Medication	csDMARDs_current	-0.025	8.59e-01																				
+16S Taxa	Rikenellaceae RC9 gut group	Inflammation	ESR	0.014	9.66e-01																				
+16S Taxa	Rikenellaceae RC9 gut group	Demographic	BMI	-0.017	9.11e-01																				
+16S Taxa	Rikenellaceae RC9 gut group	Phenotype	CD	-0.107	5.16e-02		*																		
+16S Taxa	Rikenellaceae RC9 gut group	Phenotype	AAU	0.09	1.44e-01																				
+16S Taxa	Rikenellaceae RC9 gut group	Phenotype	SpA	0.081	3.66e-01																				
+16S Taxa	Rikenellaceae RC9 gut group	Enterotype	B1	-0.033	4.45e-01																				
+16S Taxa	Rikenellaceae RC9 gut group	Enterotype	B2	-0.105	1.63e-02		*																		
+16S Taxa	Rikenellaceae RC9 gut group	Enterotype	P	0.235	5.05e-05	***																			
+16S Taxa	Methanobrevibacter	Phenotype	GESPIC	0.067	4.50e-01																				
+16S Taxa	Methanobrevibacter	Medication	NSAIDs_current	0.009	9.92e-01																				
+16S Taxa	Methanobrevibacter	Demographic	Age	0.171	3.73e-02	*																			
+16S Taxa	Methanobrevibacter	Demographic	Sex	0.024	8.18e-01																				
+16S Taxa	Methanobrevibacter	Phenotype	HLAB27	0.1	1.29e-01																				
+16S Taxa	Methanobrevibacter	Medication	Antibiotics_recent	-0.026	9.57e-01																				
+16S Taxa	Methanobrevibacter	Inflammation	CRP	-0.002	9.84e-01																				
+16S Taxa	Methanobrevibacter	Medication	Corticoids_current	-0.078	8.74e-01																				
+16S Taxa	Methanobrevibacter	Medication	Corticoids_ever	0.015	9.62e-01																				
+16S Taxa	Methanobrevibacter	Medication	csDMARDs_ever	-0.09	2.31e-01																				
+16S Taxa	Methanobrevibacter	Medication	csDMARDs_current	-0.152	1.90e-01																				
+16S Taxa	Methanobrevibacter	Inflammation	ESR	0.045	7.64e-01																				
+16S Taxa	Methanobrevibacter	Demographic	BMI	0.113	4.66e-01																				
+16S Taxa	Methanobrevibacter	Phenotype	CD	-0.147	1.09e-02	*																			
+16S Taxa	Methanobrevibacter	Phenotype	AAU	0.124	7.91e-02	*																			
+16S Taxa	Methanobrevibacter	Phenotype	SpA	0.103	2.00e-01																				
+16S Taxa	Methanobrevibacter	Enterotype	B1	0.133	2.38e-03		**																		
+16S Taxa	Methanobrevibacter	Enterotype	B2	-0.215	2.35e-06	***																			
+16S Taxa	Methanobrevibacter	Enterotype	P	0.105	1.37e-01																				
+16S Taxa	Subdoligranulum	Phenotype	GESPIC	-0.032	8.45e-01																				
+16S Taxa	Subdoligranulum	Medication	NSAIDs_current	0.06	8.62e-01																				
+16S Taxa	Subdoligranulum	Demographic	Age	-0.075	4.56e-01																				
+16S Taxa	Subdoligranulum	Demographic	Sex	0.064	6.80e-01																				
+16S Taxa	Subdoligranulum	Phenotype	HLAB27	0.213	1.32e-02	*																			
+16S Taxa	Subdoligranulum	Medication	Antibiotics_recent	-0.116	6.43e-01																				
+16S Taxa	Subdoligranulum	Inflammation	CRP	-0.105	2.01e-01																				
+16S Taxa	Subdoligranulum	Medication	Corticoids_current	0.049	9.45e-01																				
+16S Taxa	Subdoligranulum	Medication	Corticoids_ever	-0.029	9.62e-01																				
+16S Taxa	Subdoligranulum	Medication	csDMARDs_ever	-0.219	3.87e-02		*																		
+16S Taxa	Subdoligranulum	Medication	csDMARDs_current	-0.151	4.02e-01																				
+16S Taxa	Subdoligranulum	Inflammation	ESR	-0.15	1.57e-01																				
+16S Taxa	Subdoligranulum	Demographic	BMI	0.018	9.11e-01																				
+16S Taxa	Subdoligranulum	Phenotype	CD	-0.237	5.40e-03		**																		
+16S Taxa	Subdoligranulum	Phenotype	AAU	0.142	1.44e-01																				
+16S Taxa	Subdoligranulum	Phenotype	SpA	-0.004	9.80e-01																				
+16S Taxa	Subdoligranulum	Enterotype	B1	0.67	2.10e-26	***																			
+16S Taxa	Subdoligranulum	Enterotype	B2	-0.59	1.04e-18	***																			
+16S Taxa	Subdoligranulum	Enterotype	P	-0.285	2.87e-03	**																			
+16S Taxa	Ruminococcus gauvreauii group	Phenotype	GESPIC	-0.292	4.64e-03	**																			
+16S Taxa	Ruminococcus gauvreauii group	Medication	NSAIDs_current	-0.023	9.72e-01																				
+16S Taxa	Ruminococcus gauvreauii group	Demographic	Age	0.035	8.01e-01																				
+16S Taxa	Ruminococcus gauvreauii group	Demographic	Sex	0.075	6.73e-01																				
+16S Taxa	Ruminococcus gauvreauii group	Phenotype	HLAB27	-0.032	8.36e-01																				
+16S Taxa	Ruminococcus gauvreauii group	Medication	Antibiotics_recent	-0.189	4.63e-01																				
+16S Taxa	Ruminococcus gauvreauii group	Inflammation	CRP	-0.242	2.49e-04		***																		
+16S Taxa	Ruminococcus gauvreauii group	Medication	Corticoids_current	0.015	9.79e-01																				
+16S Taxa	Ruminococcus gauvreauii group	Medication	Corticoids_ever	-0.143	6.04e-01																				
+16S Taxa	Ruminococcus gauvreauii group	Medication	csDMARDs_ever	-0.091	4.18e-01																				
+16S Taxa	Ruminococcus gauvreauii group	Medication	csDMARDs_current	-0.1	5.74e-01																				
+16S Taxa	Ruminococcus gauvreauii group	Inflammation	ESR	-0.15	1.57e-01																				
+16S Taxa	Ruminococcus gauvreauii group	Demographic	BMI	-0.046	7.39e-01																				
+16S Taxa	Ruminococcus gauvreauii group	Phenotype	CD	-0.098	2.59e-01																				
+16S Taxa	Ruminococcus gauvreauii group	Phenotype	AAU	-0.016	9.79e-01																				
+16S Taxa	Ruminococcus gauvreauii group	Phenotype	SpA	-0.118	3.91e-01																				
+16S Taxa	Ruminococcus gauvreauii group	Enterotype	B1	0.196	2.00e-03	**																			
+16S Taxa	Ruminococcus gauvreauii group	Enterotype	B2	-0.202	2.51e-03	**																			
+16S Taxa	Ruminococcus gauvreauii group	Enterotype	P	-0.035	7.46e-01																				
+16S Taxa	Ruminococcaceae UCG-003	Phenotype	GESPIC	-0.02	8.77e-01																				
+16S Taxa	Ruminococcaceae UCG-003	Medication	NSAIDs_current	0.097	7.23e-01																				
+16S Taxa	Ruminococcaceae UCG-003	Demographic	Age	-0.083	3.81e-01																				
+16S Taxa	Ruminococcaceae UCG-003	Demographic	Sex	0.016	9.26e-01																				
+16S Taxa	Ruminococcaceae UCG-003	Phenotype	HLAB27	0.152	7.10e-02	*																			
+16S Taxa	Ruminococcaceae UCG-003	Medication	Antibiotics_recent	-0.033	9.62e-01																				
+16S Taxa	Ruminococcaceae UCG-003	Inflammation	CRP	-0.004	9.84e-01																				
+16S Taxa	Ruminococcaceae UCG-003	Medication	Corticoids_current	0.158	7.36e-01																				
+16S Taxa	Ruminococcaceae UCG-003	Medication	Corticoids_ever	0.021	9.62e-01																				
+16S Taxa	Ruminococcaceae UCG-003	Medication	csDMARDs_ever	-0.194	4.58e-02	*																			
+16S Taxa	Ruminococcaceae UCG-003	Medication	csDMARDs_current	-0.138	4.14e-01																				
+16S Taxa	Ruminococcaceae UCG-003	Inflammation	ESR	-0.02	9.55e-01																				
+16S Taxa	Ruminococcaceae UCG-003	Demographic	BMI	0.002	9.83e-01																				
+16S Taxa	Ruminococcaceae UCG-003	Phenotype	CD	-0.18	2.53e-02		*																		
+16S Taxa	Ruminococcaceae UCG-003	Phenotype	AAU	0.108	2.31e-01																				
+16S Taxa	Ruminococcaceae UCG-003	Phenotype	SpA	0.033	9.14e-01																				
+16S Taxa	Ruminococcaceae UCG-003	Enterotype	B1	0.278	3.25e-06		***																		
+16S Taxa	Ruminococcaceae UCG-003	Enterotype	B2	-0.375	2.11e-09	***																			
+16S Taxa	Ruminococcaceae UCG-003	Enterotype	P	0.096	3.59e-01																				
+16S Taxa	Lachnospiraceae UCG-001	Phenotype	GESPIC	-0.113	3.72e-01																				
+16S Taxa	Lachnospiraceae UCG-001	Medication	NSAIDs_current	-0.015	9.92e-01																				
+16S Taxa	Lachnospiraceae UCG-001	Demographic	Age	0.042	7.39e-01																				
+16S Taxa	Lachnospiraceae UCG-001	Demographic	Sex	0.028	8.41e-01																				
+16S Taxa	Lachnospiraceae UCG-001	Phenotype	HLAB27	0.056	6.33e-01																				
+16S Taxa	Lachnospiraceae UCG-001	Medication	Antibiotics_recent	-0.268	2.75e-01																				
+16S Taxa	Lachnospiraceae UCG-001	Inflammation	CRP	-0.121	1.19e-01																				
+16S Taxa	Lachnospiraceae UCG-001	Medication	Corticoids_current	-0.018	9.69e-01																				
+16S Taxa	Lachnospiraceae UCG-001	Medication	Corticoids_ever	-0.016	9.62e-01																				
+16S Taxa	Lachnospiraceae UCG-001	Medication	csDMARDs_ever	-0.077	4.91e-01																				
+16S Taxa	Lachnospiraceae UCG-001	Medication	csDMARDs_current	-0.021	9.71e-01																				
+16S Taxa	Lachnospiraceae UCG-001	Inflammation	ESR	-0.08	5.10e-01																				
+16S Taxa	Lachnospiraceae UCG-001	Demographic	BMI	0.004	9.83e-01																				
+16S Taxa	Lachnospiraceae UCG-001	Phenotype	CD	-0.229	5.04e-03	**																			
+16S Taxa	Lachnospiraceae UCG-001	Phenotype	AAU	0.094	3.06e-01																				
+16S Taxa	Lachnospiraceae UCG-001	Phenotype	SpA	0.001	9.84e-01																				
+16S Taxa	Lachnospiraceae UCG-001	Enterotype	B1	0.32	1.49e-07		***																		
+16S Taxa	Lachnospiraceae UCG-001	Enterotype	B2	-0.412	1.57e-10	***																			
+16S Taxa	Lachnospiraceae UCG-001	Enterotype	P	0.078	4.79e-01																				
+16S Taxa	Clostridium innocuum group	Phenotype	GESPIC	-0.002	9.77e-01																				
+16S Taxa	Clostridium innocuum group	Medication	NSAIDs_current	-0.15	2.18e-01																				
+16S Taxa	Clostridium innocuum group	Demographic	Age	0.01	9.45e-01																				
+16S Taxa	Clostridium innocuum group	Demographic	Sex	0.128	2.14e-01																				
+16S Taxa	Clostridium innocuum group	Phenotype	HLAB27	-0.14	5.71e-02		*																		
+16S Taxa	Clostridium innocuum group	Medication	Antibiotics_recent	0.003	9.96e-01																				
+16S Taxa	Clostridium innocuum group	Inflammation	CRP	0.01	9.52e-01																				
+16S Taxa	Clostridium innocuum group	Medication	Corticoids_current	-0.092	8.74e-01																				
+16S Taxa	Clostridium innocuum group	Medication	Corticoids_ever	0.022	9.62e-01																				
+16S Taxa	Clostridium innocuum group	Medication	csDMARDs_ever	0.185	3.82e-02		*																		
+16S Taxa	Clostridium innocuum group	Medication	csDMARDs_current	0.194	1.32e-01																				
+16S Taxa	Clostridium innocuum group	Inflammation	ESR	-0.015	9.63e-01																				
+16S Taxa	Clostridium innocuum group	Demographic	BMI	-0.089	5.68e-01																				
+16S Taxa	Clostridium innocuum group	Phenotype	CD	0.304	6.11e-06	***																			
+16S Taxa	Clostridium innocuum group	Phenotype	AAU	-0.097	2.09e-01																				
+16S Taxa	Clostridium innocuum group	Phenotype	SpA	-0.096	3.91e-01																				
+16S Taxa	Clostridium innocuum group	Enterotype	B1	-0.19	2.25e-04	***																			
+16S Taxa	Clostridium innocuum group	Enterotype	B2	0.402	5.04e-14	***																			
+16S Taxa	Clostridium innocuum group	Enterotype	P	-0.306	3.42e-05	***																			
+16S Taxa	Enterococcus	Phenotype	GESPIC	0.054	6.38e-01																				
+16S Taxa	Enterococcus	Medication	NSAIDs_current	-0.051	8.58e-01																				
+16S Taxa	Enterococcus	Demographic	Age	0.092	3.31e-01																				
+16S Taxa	Enterococcus	Demographic	Sex	0.054	6.80e-01																				
+16S Taxa	Enterococcus	Phenotype	HLAB27	-0.058	5.32e-01																				
+16S Taxa	Enterococcus	Medication	Antibiotics_recent	0.225	2.75e-01																				
+16S Taxa	Enterococcus	Inflammation	CRP	0.016	8.91e-01																				
+16S Taxa	Enterococcus	Medication	Corticoids_current	0.192	7.36e-01																				
+16S Taxa	Enterococcus	Medication	Corticoids_ever	-0.005	9.87e-01																				
+16S Taxa	Enterococcus	Medication	csDMARDs_ever	0.124	1.51e-01																				
+16S Taxa	Enterococcus	Medication	csDMARDs_current	0.13	3.63e-01																				
+16S Taxa	Enterococcus	Inflammation	ESR	0.023	9.49e-01																				
+16S Taxa	Enterococcus	Demographic	BMI	-0.083	6.20e-01																				
+16S Taxa	Enterococcus	Phenotype	CD	0.186	5.04e-03	**																			
+16S Taxa	Enterococcus	Phenotype	AAU	0.036	7.29e-01																				
+16S Taxa	Enterococcus	Phenotype	SpA	-0.028	9.14e-01																				
+16S Taxa	Enterococcus	Enterotype	B1	-0.122	1.71e-02	*																			
+16S Taxa	Enterococcus	Enterotype	B2	0.157	3.23e-03	**																			
+16S Taxa	Enterococcus	Enterotype	P	-0.028	7.46e-01																				
+16S Taxa	Lactobacillus	Phenotype	GESPIC	0.273	6.27e-03	**																			
+16S Taxa	Lactobacillus	Medication	NSAIDs_current	0.025	9.59e-01																				
+16S Taxa	Lactobacillus	Demographic	Age	0.047	7.21e-01																				
+16S Taxa	Lactobacillus	Demographic	Sex	-0.114	4.82e-01																				
+16S Taxa	Lactobacillus	Phenotype	HLAB27	0.059	6.02e-01																				
+16S Taxa	Lactobacillus	Medication	Antibiotics_recent	-0.013	9.96e-01																				
+16S Taxa	Lactobacillus	Inflammation	CRP	0.207	1.56e-03	**																			
+16S Taxa	Lactobacillus	Medication	Corticoids_current	0.113	8.74e-01																				
+16S Taxa	Lactobacillus	Medication	Corticoids_ever	0.124	6.25e-01																				
+16S Taxa	Lactobacillus	Medication	csDMARDs_ever	0.093	4.08e-01																				
+16S Taxa	Lactobacillus	Medication	csDMARDs_current	0.04	8.53e-01																				
+16S Taxa	Lactobacillus	Inflammation	ESR	0.132	2.39e-01																				
+16S Taxa	Lactobacillus	Demographic	BMI	0.072	7.16e-01																				
+16S Taxa	Lactobacillus	Phenotype	CD	0.096	2.59e-01																				
+16S Taxa	Lactobacillus	Phenotype	AAU	0.094	3.06e-01																				
+16S Taxa	Lactobacillus	Phenotype	SpA	0.199	2.55e-02	*																			
+16S Taxa	Lactobacillus	Enterotype	B1	0.015	8.20e-01																				
+16S Taxa	Lactobacillus	Enterotype	B2	0.008	9.25e-01																				
+16S Taxa	Lactobacillus	Enterotype	P	-0.042	7.15e-01																				
+16S Taxa	Ruminococcaceae UCG-002	Phenotype	GESPIC	0.057	7.18e-01																				
+16S Taxa	Ruminococcaceae UCG-002	Medication	NSAIDs_current	-0.039	9.49e-01																				
+16S Taxa	Ruminococcaceae UCG-002	Demographic	Age	0.052	6.69e-01																				
+16S Taxa	Ruminococcaceae UCG-002	Demographic	Sex	0.087	6.73e-01																				
+16S Taxa	Ruminococcaceae UCG-002	Phenotype	HLAB27	0.208	1.47e-02		*																		
+16S Taxa	Ruminococcaceae UCG-002	Medication	Antibiotics_recent	-0.153	5.59e-01																				
+16S Taxa	Ruminococcaceae UCG-002	Inflammation	CRP	-0.086	2.79e-01																				
+16S Taxa	Ruminococcaceae UCG-002	Medication	Corticoids_current	0.064	9.45e-01																				
+16S Taxa	Ruminococcaceae UCG-002	Medication	Corticoids_ever	-0.032	9.62e-01																				
+16S Taxa	Ruminococcaceae UCG-002	Medication	csDMARDs_ever	-0.103	3.82e-01																				
+16S Taxa	Ruminococcaceae UCG-002	Medication	csDMARDs_current	-0.093	6.03e-01																				
+16S Taxa	Ruminococcaceae UCG-002	Inflammation	ESR	-0.076	5.48e-01																				
+16S Taxa	Ruminococcaceae UCG-002	Demographic	BMI	-0.054	7.28e-01																				
+16S Taxa	Ruminococcaceae UCG-002	Phenotype	CD	-0.298	3.14e-04	***																			
+16S Taxa	Ruminococcaceae UCG-002	Phenotype	AAU	0.192	6.47e-02	*																			
+16S Taxa	Ruminococcaceae UCG-002	Phenotype	SpA	0.067	7.02e-01																				
+16S Taxa	Ruminococcaceae UCG-002	Enterotype	B1	0.576	3.03e-20		***																		
+16S Taxa	Ruminococcaceae UCG-002	Enterotype	B2	-0.769	2.74e-31	***																			
+16S Taxa	Ruminococcaceae UCG-002	Enterotype	P	0.184	7.04e-02		*																		
+16S Taxa	Anaerosacchariphilus	Phenotype	GESPIC	0.097	4.11e-01																				
+16S Taxa	Anaerosacchariphilus	Medication	NSAIDs_current	0.005	9.92e-01																				
+16S Taxa	Anaerosacchariphilus	Demographic	Age	0.032	8.09e-01																				
+16S Taxa	Anaerosacchariphilus	Demographic	Sex	0.049	7.55e-01																				
+16S Taxa	Anaerosacchariphilus	Phenotype	HLAB27	0.163	5.71e-02	*																			
+16S Taxa	Anaerosacchariphilus	Medication	Antibiotics_recent	-0.115	6.24e-01																				
+16S Taxa	Anaerosacchariphilus	Inflammation	CRP	0.039	7.15e-01																				
+16S Taxa	Anaerosacchariphilus	Medication	Corticoids_current	0.167	7.36e-01																				
+16S Taxa	Anaerosacchariphilus	Medication	Corticoids_ever	-0.057	8.88e-01																				
+16S Taxa	Anaerosacchariphilus	Medication	csDMARDs_ever	0.047	6.79e-01																				
+16S Taxa	Anaerosacchariphilus	Medication	csDMARDs_current	0.147	3.71e-01																				
+16S Taxa	Anaerosacchariphilus	Inflammation	ESR	0.03	8.93e-01																				
+16S Taxa	Anaerosacchariphilus	Demographic	BMI	-0.051	7.28e-01																				
+16S Taxa	Anaerosacchariphilus	Phenotype	CD	-0.017	8.65e-01																				
+16S Taxa	Anaerosacchariphilus	Phenotype	AAU	0.109	2.19e-01																				
+16S Taxa	Anaerosacchariphilus	Phenotype	SpA	0.048	7.83e-01																				
+16S Taxa	Anaerosacchariphilus	Enterotype	B1	0.323	3.00e-08		***																		
+16S Taxa	Anaerosacchariphilus	Enterotype	B2	-0.378	8.76e-10	***																			
+16S Taxa	Anaerosacchariphilus	Enterotype	P	0.016	8.88e-01																				
+16S Taxa	Marvinbryantia	Phenotype	GESPIC	-0.285	4.64e-03	**																			
+16S Taxa	Marvinbryantia	Medication	NSAIDs_current	-0.052	8.72e-01																				
+16S Taxa	Marvinbryantia	Demographic	Age	0.014	9.32e-01																				
+16S Taxa	Marvinbryantia	Demographic	Sex	0.031	8.27e-01																				
+16S Taxa	Marvinbryantia	Phenotype	HLAB27	-0.069	5.32e-01																				
+16S Taxa	Marvinbryantia	Medication	Antibiotics_recent	-0.063	8.53e-01																				
+16S Taxa	Marvinbryantia	Inflammation	CRP	-0.191	4.02e-03		**																		
+16S Taxa	Marvinbryantia	Medication	Corticoids_current	-0.118	8.74e-01																				
+16S Taxa	Marvinbryantia	Medication	Corticoids_ever	-0.089	7.90e-01																				
+16S Taxa	Marvinbryantia	Medication	csDMARDs_ever	-0.081	4.65e-01																				
+16S Taxa	Marvinbryantia	Medication	csDMARDs_current	-0.093	5.80e-01																				
+16S Taxa	Marvinbryantia	Inflammation	ESR	-0.063	6.72e-01																				
+16S Taxa	Marvinbryantia	Demographic	BMI	-0.108	4.66e-01																				
+16S Taxa	Marvinbryantia	Phenotype	CD	-0.129	1.34e-01																				
+16S Taxa	Marvinbryantia	Phenotype	AAU	0.021	9.56e-01																				
+16S Taxa	Marvinbryantia	Phenotype	SpA	-0.078	6.64e-01																				
+16S Taxa	Marvinbryantia	Enterotype	B1	0.379	3.21e-10		***																		
+16S Taxa	Marvinbryantia	Enterotype	B2	-0.473	1.23e-13	***																			
+16S Taxa	Marvinbryantia	Enterotype	P	0.068	5.33e-01																				
+16S Taxa	Ruminococcaceae UCG-010	Phenotype	GESPIC	0.049	7.18e-01																				
+16S Taxa	Ruminococcaceae UCG-010	Medication	NSAIDs_current	-0.057	8.58e-01																				
+16S Taxa	Ruminococcaceae UCG-010	Demographic	Age	0.059	5.96e-01																				
+16S Taxa	Ruminococcaceae UCG-010	Demographic	Sex	0.012	9.42e-01																				
+16S Taxa	Ruminococcaceae UCG-010	Phenotype	HLAB27	0.121	1.95e-01																				
+16S Taxa	Ruminococcaceae UCG-010	Medication	Antibiotics_recent	-0.166	4.63e-01																				
+16S Taxa	Ruminococcaceae UCG-010	Inflammation	CRP	-0.1	2.27e-01																				
+16S Taxa	Ruminococcaceae UCG-010	Medication	Corticoids_current	0.157	7.36e-01																				
+16S Taxa	Ruminococcaceae UCG-010	Medication	Corticoids_ever	0.038	9.62e-01																				
+16S Taxa	Ruminococcaceae UCG-010	Medication	csDMARDs_ever	-0.015	9.24e-01																				
+16S Taxa	Ruminococcaceae UCG-010	Medication	csDMARDs_current	-0.063	7.53e-01																				
+16S Taxa	Ruminococcaceae UCG-010	Inflammation	ESR	-0.131	2.39e-01																				
+16S Taxa	Ruminococcaceae UCG-010	Demographic	BMI	-0.02	9.11e-01																				
+16S Taxa	Ruminococcaceae UCG-010	Phenotype	CD	-0.189	1.19e-02		*																		
+16S Taxa	Ruminococcaceae UCG-010	Phenotype	AAU	0.2	2.93e-02	*																			
+16S Taxa	Ruminococcaceae UCG-010	Phenotype	SpA	0.053	7.02e-01																				
+16S Taxa	Ruminococcaceae UCG-010	Enterotype	B1	0.408	1.29e-13		***																		
+16S Taxa	Ruminococcaceae UCG-010	Enterotype	B2	-0.557	1.33e-21	***																			
+16S Taxa	Ruminococcaceae UCG-010	Enterotype	P	0.152	8.98e-02		*																		
+16S Taxa	Escherichia-Shigella	Phenotype	GESPIC	0.147	2.15e-01																				
+16S Taxa	Escherichia-Shigella	Medication	NSAIDs_current	-0.093	7.51e-01																				
+16S Taxa	Escherichia-Shigella	Demographic	Age	0.01	9.45e-01																				
+16S Taxa	Escherichia-Shigella	Demographic	Sex	0.133	3.50e-01																				
+16S Taxa	Escherichia-Shigella	Phenotype	HLAB27	-0.161	7.10e-02		*																		
+16S Taxa	Escherichia-Shigella	Medication	Antibiotics_recent	0.209	4.15e-01																				
+16S Taxa	Escherichia-Shigella	Inflammation	CRP	0.138	5.80e-02	*																			
+16S Taxa	Escherichia-Shigella	Medication	Corticoids_current	0.025	9.51e-01																				
+16S Taxa	Escherichia-Shigella	Medication	Corticoids_ever	0.09	7.90e-01																				
+16S Taxa	Escherichia-Shigella	Medication	csDMARDs_ever	0.213	3.87e-02		*																		
+16S Taxa	Escherichia-Shigella	Medication	csDMARDs_current	0.044	8.50e-01																				
+16S Taxa	Escherichia-Shigella	Inflammation	ESR	0.163	1.05e-01																				
+16S Taxa	Escherichia-Shigella	Demographic	BMI	-0.015	9.11e-01																				
+16S Taxa	Escherichia-Shigella	Phenotype	CD	0.337	2.03e-05	***																			
+16S Taxa	Escherichia-Shigella	Phenotype	AAU	-0.081	4.07e-01																				
+16S Taxa	Escherichia-Shigella	Phenotype	SpA	-0.063	7.02e-01																				
+16S Taxa	Escherichia-Shigella	Enterotype	B1	-0.084	2.01e-01																				
+16S Taxa	Escherichia-Shigella	Enterotype	B2	0.259	9.93e-05	***																			
+16S Taxa	Escherichia-Shigella	Enterotype	P	-0.269	4.11e-03	**																			
+16S Taxa	Family XIII AD3011 group	Phenotype	GESPIC	-0.213	4.90e-02		*																		
+16S Taxa	Family XIII AD3011 group	Medication	NSAIDs_current	-0.02	9.82e-01																				
+16S Taxa	Family XIII AD3011 group	Demographic	Age	0.015	9.22e-01																				
+16S Taxa	Family XIII AD3011 group	Demographic	Sex	0.063	6.80e-01																				
+16S Taxa	Family XIII AD3011 group	Phenotype	HLAB27	0.002	9.80e-01																				
+16S Taxa	Family XIII AD3011 group	Medication	Antibiotics_recent	-0.177	4.63e-01																				
+16S Taxa	Family XIII AD3011 group	Inflammation	CRP	-0.185	5.34e-03		**																		
+16S Taxa	Family XIII AD3011 group	Medication	Corticoids_current	-0.159	7.36e-01																				
+16S Taxa	Family XIII AD3011 group	Medication	Corticoids_ever	-0.042	9.62e-01																				
+16S Taxa	Family XIII AD3011 group	Medication	csDMARDs_ever	-0.044	6.93e-01																				
+16S Taxa	Family XIII AD3011 group	Medication	csDMARDs_current	0.025	9.59e-01																				
+16S Taxa	Family XIII AD3011 group	Inflammation	ESR	-0.178	7.07e-02	*																			
+16S Taxa	Family XIII AD3011 group	Demographic	BMI	-0.109	4.66e-01																				
+16S Taxa	Family XIII AD3011 group	Phenotype	CD	-0.127	1.34e-01																				
+16S Taxa	Family XIII AD3011 group	Phenotype	AAU	-0.011	9.79e-01																				
+16S Taxa	Family XIII AD3011 group	Phenotype	SpA	-0.068	7.02e-01																				
+16S Taxa	Family XIII AD3011 group	Enterotype	B1	0.431	3.45e-13	***																			
+16S Taxa	Family XIII AD3011 group	Enterotype	B2	-0.438	4.29e-12	***																			
+16S Taxa	Family XIII AD3011 group	Enterotype	P	-0.088	4.03e-01																				
+16S Taxa	Collinsella	Phenotype	GESPIC	0.257	1.76e-02		*																		
+16S Taxa	Collinsella	Medication	NSAIDs_current	0.086	7.63e-01																				
+16S Taxa	Collinsella	Demographic	Age	0.005	9.57e-01																				
+16S Taxa	Collinsella	Demographic	Sex	-0.17	2.14e-01																				
+16S Taxa	Collinsella	Phenotype	HLAB27	0.135	2.03e-01																				
+16S Taxa	Collinsella	Medication	Antibiotics_recent	-0.023	9.96e-01																				
+16S Taxa	Collinsella	Inflammation	CRP	0.044	6.84e-01																				
+16S Taxa	Collinsella	Medication	Corticoids_current	0.039	9.45e-01																				
+16S Taxa	Collinsella	Medication	Corticoids_ever	-0.017	9.62e-01																				
+16S Taxa	Collinsella	Medication	csDMARDs_ever	0.009	9.45e-01																				
+16S Taxa	Collinsella	Medication	csDMARDs_current	0.113	5.67e-01																				
+16S Taxa	Collinsella	Inflammation	ESR	-0.054	7.38e-01																				
+16S Taxa	Collinsella	Demographic	BMI	0.126	4.50e-01																				
+16S Taxa	Collinsella	Phenotype	CD	0.02	8.63e-01																				
+16S Taxa	Collinsella	Phenotype	AAU	0.08	4.13e-01																				
+16S Taxa	Collinsella	Phenotype	SpA	0.198	3.42e-02	*																			
+16S Taxa	Collinsella	Enterotype	B1	0.175	7.09e-03		**																		
+16S Taxa	Collinsella	Enterotype	B2	-0.245	3.20e-04	***																			
+16S Taxa	Collinsella	Enterotype	P	0.074	5.08e-01																				
+16S Taxa	Faecalibacterium	Phenotype	GESPIC	0.184	1.09e-01																				
+16S Taxa	Faecalibacterium	Medication	NSAIDs_current	0.097	7.51e-01																				
+16S Taxa	Faecalibacterium	Demographic	Age	-0.106	2.48e-01																				
+16S Taxa	Faecalibacterium	Demographic	Sex	-0.078	6.73e-01																				
+16S Taxa	Faecalibacterium	Phenotype	HLAB27	0.311	4.39e-05	***																			
+16S Taxa	Faecalibacterium	Medication	Antibiotics_recent	-0.222	3.76e-01																				
+16S Taxa	Faecalibacterium	Inflammation	CRP	0.023	8.35e-01																				
+16S Taxa	Faecalibacterium	Medication	Corticoids_current	0.054	9.45e-01																				
+16S Taxa	Faecalibacterium	Medication	Corticoids_ever	-0.024	9.62e-01																				
+16S Taxa	Faecalibacterium	Medication	csDMARDs_ever	-0.135	2.31e-01																				
+16S Taxa	Faecalibacterium	Medication	csDMARDs_current	-0.013	9.71e-01																				
+16S Taxa	Faecalibacterium	Inflammation	ESR	-0.041	7.99e-01																				
+16S Taxa	Faecalibacterium	Demographic	BMI	-0.116	4.66e-01																				
+16S Taxa	Faecalibacterium	Phenotype	CD	-0.227	8.03e-03		**																		
+16S Taxa	Faecalibacterium	Phenotype	AAU	0.174	8.46e-02		*																		
+16S Taxa	Faecalibacterium	Phenotype	SpA	0.142	2.62e-01																				
+16S Taxa	Faecalibacterium	Enterotype	B1	0.497	2.80e-15	***																			
+16S Taxa	Faecalibacterium	Enterotype	B2	-0.417	5.99e-10		***																		
+16S Taxa	Faecalibacterium	Enterotype	P	-0.246	1.20e-02		*																		
+16S Taxa	Lachnospiraceae ND3007 group	Phenotype	GESPIC	-0.216	5.94e-02		*																		
+16S Taxa	Lachnospiraceae ND3007 group	Medication	NSAIDs_current	-0.047	9.07e-01																				
+16S Taxa	Lachnospiraceae ND3007 group	Demographic	Age	-0.062	5.82e-01																				
+16S Taxa	Lachnospiraceae ND3007 group	Demographic	Sex	-0.017	9.26e-01																				
+16S Taxa	Lachnospiraceae ND3007 group	Phenotype	HLAB27	0.057	6.48e-01																				
+16S Taxa	Lachnospiraceae ND3007 group	Medication	Antibiotics_recent	-0.271	2.75e-01																				
+16S Taxa	Lachnospiraceae ND3007 group	Inflammation	CRP	-0.227	6.87e-04	***																			
+16S Taxa	Lachnospiraceae ND3007 group	Medication	Corticoids_current	-0.022	9.51e-01																				
+16S Taxa	Lachnospiraceae ND3007 group	Medication	Corticoids_ever	-0.14	6.04e-01																				
+16S Taxa	Lachnospiraceae ND3007 group	Medication	csDMARDs_ever	-0.171	1.13e-01																				
+16S Taxa	Lachnospiraceae ND3007 group	Medication	csDMARDs_current	-0.127	5.42e-01																				
+16S Taxa	Lachnospiraceae ND3007 group	Inflammation	ESR	-0.132	2.39e-01																				
+16S Taxa	Lachnospiraceae ND3007 group	Demographic	BMI	-0.078	7.16e-01																				
+16S Taxa	Lachnospiraceae ND3007 group	Phenotype	CD	-0.261	1.87e-03	**																			
+16S Taxa	Lachnospiraceae ND3007 group	Phenotype	AAU	0.001	9.91e-01																				
+16S Taxa	Lachnospiraceae ND3007 group	Phenotype	SpA	-0.104	5.08e-01																				
+16S Taxa	Lachnospiraceae ND3007 group	Enterotype	B1	0.484	9.63e-15	***																			
+16S Taxa	Lachnospiraceae ND3007 group	Enterotype	B2	-0.538	7.08e-16	***																			
+16S Taxa	Lachnospiraceae ND3007 group	Enterotype	P	-0.023	8.43e-01																				
+16S Taxa	Ruminococcaceae UCG-009	Phenotype	GESPIC	0.087	3.99e-01																				
+16S Taxa	Ruminococcaceae UCG-009	Medication	NSAIDs_current	0.088	7.13e-01																				
+16S Taxa	Ruminococcaceae UCG-009	Demographic	Age	0.103	2.62e-01																				
+16S Taxa	Ruminococcaceae UCG-009	Demographic	Sex	0.057	6.80e-01																				
+16S Taxa	Ruminococcaceae UCG-009	Phenotype	HLAB27	0.206	1.10e-03	**																			
+16S Taxa	Ruminococcaceae UCG-009	Medication	Antibiotics_recent	0.002	9.96e-01																				
+16S Taxa	Ruminococcaceae UCG-009	Inflammation	CRP	-0.028	8.17e-01																				
+16S Taxa	Ruminococcaceae UCG-009	Medication	Corticoids_current	0.113	8.52e-01																				
+16S Taxa	Ruminococcaceae UCG-009	Medication	Corticoids_ever	0.148	5.48e-01																				
+16S Taxa	Ruminococcaceae UCG-009	Medication	csDMARDs_ever	-0.117	1.85e-01																				
+16S Taxa	Ruminococcaceae UCG-009	Medication	csDMARDs_current	-0.198	1.32e-01																				
+16S Taxa	Ruminococcaceae UCG-009	Inflammation	ESR	-0.082	5.10e-01																				
+16S Taxa	Ruminococcaceae UCG-009	Demographic	BMI	-0.013	9.11e-01																				
+16S Taxa	Ruminococcaceae UCG-009	Phenotype	CD	-0.201	2.67e-03	**																			
+16S Taxa	Ruminococcaceae UCG-009	Phenotype	AAU	0.111	1.44e-01																				
+16S Taxa	Ruminococcaceae UCG-009	Phenotype	SpA	0.124	1.81e-01																				
+16S Taxa	Ruminococcaceae UCG-009	Enterotype	B1	0.225	9.48e-06		***																		
+16S Taxa	Ruminococcaceae UCG-009	Enterotype	B2	-0.305	9.68e-09	***																			
+16S Taxa	Ruminococcaceae UCG-009	Enterotype	P	0.081	3.59e-01																				
+16S Taxa	Moryella	Phenotype	GESPIC	0.052	6.33e-01																				
+16S Taxa	Moryella	Medication	NSAIDs_current	0.032	9.35e-01																				
+16S Taxa	Moryella	Demographic	Age	0.037	7.86e-01																				
+16S Taxa	Moryella	Demographic	Sex	-0.015	8.98e-01																				
+16S Taxa	Moryella	Phenotype	HLAB27	0.126	6.02e-02	*																			
+16S Taxa	Moryella	Medication	Antibiotics_recent	-0.202	2.75e-01																				
+16S Taxa	Moryella	Inflammation	CRP	0.003	9.84e-01																				
+16S Taxa	Moryella	Medication	Corticoids_current	-0.026	9.45e-01																				
+16S Taxa	Moryella	Medication	Corticoids_ever	-0.044	8.88e-01																				
+16S Taxa	Moryella	Medication	csDMARDs_ever	-0.057	4.94e-01																				
+16S Taxa	Moryella	Medication	csDMARDs_current	-0.043	8.39e-01																				
+16S Taxa	Moryella	Inflammation	ESR	-0.033	8.58e-01																				
+16S Taxa	Moryella	Demographic	BMI	-0.035	8.20e-01																				
+16S Taxa	Moryella	Phenotype	CD	-0.093	1.56e-01																				
+16S Taxa	Moryella	Phenotype	AAU	0.088	2.09e-01																				
+16S Taxa	Moryella	Phenotype	SpA	0.041	7.50e-01																				
+16S Taxa	Moryella	Enterotype	B1	0.233	5.62e-07	***																			
+16S Taxa	Moryella	Enterotype	B2	-0.242	8.76e-07	***																			
+16S Taxa	Moryella	Enterotype	P	-0.037	6.71e-01																				
+16S Taxa	Anaerostipes	Phenotype	GESPIC	-0.08	2.90e-01																				
+16S Taxa	Anaerostipes	Medication	NSAIDs_current	-0.032	8.72e-01																				
+16S Taxa	Anaerostipes	Demographic	Age	-0.012	9.45e-01																				
+16S Taxa	Anaerostipes	Demographic	Sex	-0.016	8.66e-01																				
+16S Taxa	Anaerostipes	Phenotype	HLAB27	-0.098	7.10e-02		*																		
+16S Taxa	Anaerostipes	Medication	Antibiotics_recent	0.071	6.41e-01																				
+16S Taxa	Anaerostipes	Inflammation	CRP	0.094	2.38e-01																				
+16S Taxa	Anaerostipes	Medication	Corticoids_current	-0.111	7.36e-01																				
+16S Taxa	Anaerostipes	Medication	Corticoids_ever	-0.064	6.82e-01																				
+16S Taxa	Anaerostipes	Medication	csDMARDs_ever	0.064	3.65e-01																				
+16S Taxa	Anaerostipes	Medication	csDMARDs_current	0.07	5.67e-01																				
+16S Taxa	Anaerostipes	Inflammation	ESR	0.099	4.81e-01																				
+16S Taxa	Anaerostipes	Demographic	BMI	-0.051	7.28e-01																				
+16S Taxa	Anaerostipes	Phenotype	CD	0.158	1.87e-03	**																			
+16S Taxa	Anaerostipes	Phenotype	AAU	-0.086	1.44e-01																				
+16S Taxa	Anaerostipes	Phenotype	SpA	-0.119	3.42e-02	*																			
+16S Taxa	Anaerostipes	Enterotype	B1	-0.054	1.83e-01																				
+16S Taxa	Anaerostipes	Enterotype	B2	0.139	7.55e-04	***																			
+16S Taxa	Anaerostipes	Enterotype	P	-0.127	3.59e-02		*																		
+16S Taxa	Streptococcus	Phenotype	GESPIC	0.133	2.90e-01																				
+16S Taxa	Streptococcus	Medication	NSAIDs_current	-0.061	8.62e-01																				
+16S Taxa	Streptococcus	Demographic	Age	-0.024	8.69e-01																				
+16S Taxa	Streptococcus	Demographic	Sex	0.078	6.73e-01																				
+16S Taxa	Streptococcus	Phenotype	HLAB27	-0.006	9.62e-01																				
+16S Taxa	Streptococcus	Medication	Antibiotics_recent	0.315	2.47e-01																				
+16S Taxa	Streptococcus	Inflammation	CRP	0.094	2.38e-01																				
+16S Taxa	Streptococcus	Medication	Corticoids_current	0.135	8.74e-01																				
+16S Taxa	Streptococcus	Medication	Corticoids_ever	0.04	9.62e-01																				
+16S Taxa	Streptococcus	Medication	csDMARDs_ever	0.167	1.27e-01																				
+16S Taxa	Streptococcus	Medication	csDMARDs_current	0.249	1.32e-01																				
+16S Taxa	Streptococcus	Inflammation	ESR	0.092	5.10e-01																				
+16S Taxa	Streptococcus	Demographic	BMI	0.033	8.20e-01																				
+16S Taxa	Streptococcus	Phenotype	CD	0.188	2.94e-02	*																			
+16S Taxa	Streptococcus	Phenotype	AAU	-0.017	9.79e-01																				
+16S Taxa	Streptococcus	Phenotype	SpA	-0.015	9.55e-01																				
+16S Taxa	Streptococcus	Enterotype	B1	-0.108	1.06e-01																				
+16S Taxa	Streptococcus	Enterotype	B2	0.169	1.49e-02	*																			
+16S Taxa	Streptococcus	Enterotype	P	-0.075	5.08e-01																				
+16S Taxa	Veillonella	Phenotype	GESPIC	0.234	3.62e-02	*																			
+16S Taxa	Veillonella	Medication	NSAIDs_current	-0.023	9.72e-01																				
+16S Taxa	Veillonella	Demographic	Age	-0.074	4.70e-01																				
+16S Taxa	Veillonella	Demographic	Sex	-0.011	9.42e-01																				
+16S Taxa	Veillonella	Phenotype	HLAB27	-0.011	9.55e-01																				
+16S Taxa	Veillonella	Medication	Antibiotics_recent	0.383	7.53e-02	*																			
+16S Taxa	Veillonella	Inflammation	CRP	0.153	3.04e-02	*																			
+16S Taxa	Veillonella	Medication	Corticoids_current	0.243	7.36e-01																				
+16S Taxa	Veillonella	Medication	Corticoids_ever	0.083	7.90e-01																				
+16S Taxa	Veillonella	Medication	csDMARDs_ever	0.158	1.44e-01																				
+16S Taxa	Veillonella	Medication	csDMARDs_current	0.099	5.74e-01																				
+16S Taxa	Veillonella	Inflammation	ESR	0.122	2.92e-01																				
+16S Taxa	Veillonella	Demographic	BMI	-0.058	7.28e-01																				
+16S Taxa	Veillonella	Phenotype	CD	0.169	4.83e-02		*																		
+16S Taxa	Veillonella	Phenotype	AAU	-0.024	9.37e-01																				
+16S Taxa	Veillonella	Phenotype	SpA	0.076	6.64e-01																				
+16S Taxa	Veillonella	Enterotype	B1	-0.22	4.77e-04	***																			
+16S Taxa	Veillonella	Enterotype	B2	0.241	2.95e-04	***																			
+16S Taxa	Veillonella	Enterotype	P	0.016	8.96e-01																				
+16S Taxa	Parasutterella	Phenotype	GESPIC	0.073	5.88e-01																				
+16S Taxa	Parasutterella	Medication	NSAIDs_current	-0.012	9.92e-01																				
+16S Taxa	Parasutterella	Demographic	Age	-0.031	8.09e-01																				
+16S Taxa	Parasutterella	Demographic	Sex	-0.009	9.42e-01																				
+16S Taxa	Parasutterella	Phenotype	HLAB27	0.159	7.10e-02	*																			
+16S Taxa	Parasutterella	Medication	Antibiotics_recent	-0.294	2.55e-01																				
+16S Taxa	Parasutterella	Inflammation	CRP	0.065	4.65e-01																				
+16S Taxa	Parasutterella	Medication	Corticoids_current	-0.047	9.45e-01																				
+16S Taxa	Parasutterella	Medication	Corticoids_ever	0.079	7.96e-01																				
+16S Taxa	Parasutterella	Medication	csDMARDs_ever	-0.007	9.46e-01																				
+16S Taxa	Parasutterella	Medication	csDMARDs_current	0.016	9.71e-01																				
+16S Taxa	Parasutterella	Inflammation	ESR	0	9.99e-01																				
+16S Taxa	Parasutterella	Demographic	BMI	0.069	7.16e-01																				
+16S Taxa	Parasutterella	Phenotype	CD	-0.066	4.29e-01																				
+16S Taxa	Parasutterella	Phenotype	AAU	0.037	8.05e-01																				
+16S Taxa	Parasutterella	Phenotype	SpA	0.086	5.85e-01																				
+16S Taxa	Parasutterella	Enterotype	B1	0.124	5.00e-02	*																			
+16S Taxa	Parasutterella	Enterotype	B2	-0.087	1.99e-01																				
+16S Taxa	Parasutterella	Enterotype	P	-0.089	4.03e-01																				
+16S Taxa	Clostridium sensu stricto 1	Phenotype	GESPIC	-0.215	5.94e-02	*																			
+16S Taxa	Clostridium sensu stricto 1	Medication	NSAIDs_current	-0.013	9.92e-01																				
+16S Taxa	Clostridium sensu stricto 1	Demographic	Age	0.006	9.50e-01																				
+16S Taxa	Clostridium sensu stricto 1	Demographic	Sex	-0.111	5.63e-01																				
+16S Taxa	Clostridium sensu stricto 1	Phenotype	HLAB27	-0.012	9.55e-01																				
+16S Taxa	Clostridium sensu stricto 1	Medication	Antibiotics_recent	0.087	7.66e-01																				
+16S Taxa	Clostridium sensu stricto 1	Inflammation	CRP	-0.038	7.18e-01																				
+16S Taxa	Clostridium sensu stricto 1	Medication	Corticoids_current	-0.109	8.74e-01																				
+16S Taxa	Clostridium sensu stricto 1	Medication	Corticoids_ever	-0.158	6.04e-01																				
+16S Taxa	Clostridium sensu stricto 1	Medication	csDMARDs_ever	-0.206	4.58e-02	*																			
+16S Taxa	Clostridium sensu stricto 1	Medication	csDMARDs_current	-0.211	2.16e-01																				
+16S Taxa	Clostridium sensu stricto 1	Inflammation	ESR	-0.027	9.27e-01																				
+16S Taxa	Clostridium sensu stricto 1	Demographic	BMI	0.098	5.00e-01																				
+16S Taxa	Clostridium sensu stricto 1	Phenotype	CD	-0.132	1.40e-01																				
+16S Taxa	Clostridium sensu stricto 1	Phenotype	AAU	-0.014	9.79e-01																				
+16S Taxa	Clostridium sensu stricto 1	Phenotype	SpA	-0.037	9.13e-01																				
+16S Taxa	Clostridium sensu stricto 1	Enterotype	B1	0.076	2.60e-01																				
+16S Taxa	Clostridium sensu stricto 1	Enterotype	B2	-0.128	6.44e-02		*																		
+16S Taxa	Clostridium sensu stricto 1	Enterotype	P	0.07	5.40e-01																				
+16S Taxa	Faecalibaculum	Phenotype	GESPIC	0.08	2.08e-01																				
+16S Taxa	Faecalibaculum	Medication	NSAIDs_current	-0.033	8.62e-01																				
+16S Taxa	Faecalibaculum	Demographic	Age	0.029	8.09e-01																				
+16S Taxa	Faecalibaculum	Demographic	Sex	0.041	6.73e-01																				
+16S Taxa	Faecalibaculum	Phenotype	HLAB27	0.011	9.04e-01																				
+16S Taxa	Faecalibaculum	Medication	Antibiotics_recent	-0.066	6.24e-01																				
+16S Taxa	Faecalibaculum	Inflammation	CRP	0.148	3.81e-02	*																			
+16S Taxa	Faecalibaculum	Medication	Corticoids_current	-0.003	9.83e-01																				
+16S Taxa	Faecalibaculum	Medication	Corticoids_ever	-0.023	9.62e-01																				
+16S Taxa	Faecalibaculum	Medication	csDMARDs_ever	0.047	4.37e-01																				
+16S Taxa	Faecalibaculum	Medication	csDMARDs_current	0.065	5.62e-01																				
+16S Taxa	Faecalibaculum	Inflammation	ESR	0.127	2.43e-01																				
+16S Taxa	Faecalibaculum	Demographic	BMI	0.01	9.42e-01																				
+16S Taxa	Faecalibaculum	Phenotype	CD	0.08	8.41e-02		*																		
+16S Taxa	Faecalibaculum	Phenotype	AAU	-0.034	5.42e-01																				
+16S Taxa	Faecalibaculum	Phenotype	SpA	0.036	7.02e-01																				
+16S Taxa	Faecalibaculum	Enterotype	B1	-0.004	9.11e-01																				
+16S Taxa	Faecalibaculum	Enterotype	B2	0.039	3.03e-01																				
+16S Taxa	Faecalibaculum	Enterotype	P	-0.056	3.34e-01																				
+16S Taxa	Lachnospiraceae NK4A136 group	Phenotype	GESPIC	0.214	5.94e-02		*																		
+16S Taxa	Lachnospiraceae NK4A136 group	Medication	NSAIDs_current	-0.031	9.59e-01																				
+16S Taxa	Lachnospiraceae NK4A136 group	Demographic	Age	0.019	9.01e-01																				
+16S Taxa	Lachnospiraceae NK4A136 group	Demographic	Sex	-0.067	6.80e-01																				
+16S Taxa	Lachnospiraceae NK4A136 group	Phenotype	HLAB27	0.257	1.10e-03	**																			
+16S Taxa	Lachnospiraceae NK4A136 group	Medication	Antibiotics_recent	-0.186	4.63e-01																				
+16S Taxa	Lachnospiraceae NK4A136 group	Inflammation	CRP	0.027	8.17e-01																				
+16S Taxa	Lachnospiraceae NK4A136 group	Medication	Corticoids_current	0.033	9.45e-01																				
+16S Taxa	Lachnospiraceae NK4A136 group	Medication	Corticoids_ever	-0.085	7.90e-01																				
+16S Taxa	Lachnospiraceae NK4A136 group	Medication	csDMARDs_ever	-0.12	2.83e-01																				
+16S Taxa	Lachnospiraceae NK4A136 group	Medication	csDMARDs_current	-0.086	6.29e-01																				
+16S Taxa	Lachnospiraceae NK4A136 group	Inflammation	ESR	0.003	9.99e-01																				
+16S Taxa	Lachnospiraceae NK4A136 group	Demographic	BMI	-0.171	1.90e-01																				
+16S Taxa	Lachnospiraceae NK4A136 group	Phenotype	CD	-0.148	9.48e-02		*																		
+16S Taxa	Lachnospiraceae NK4A136 group	Phenotype	AAU	0.145	1.44e-01																				
+16S Taxa	Lachnospiraceae NK4A136 group	Phenotype	SpA	0.123	3.91e-01																				
+16S Taxa	Lachnospiraceae NK4A136 group	Enterotype	B1	0.412	6.66e-11		***																		
+16S Taxa	Lachnospiraceae NK4A136 group	Enterotype	B2	-0.579	3.27e-18	***																			
+16S Taxa	Lachnospiraceae NK4A136 group	Enterotype	P	0.18	8.06e-02		*																		
+16S Taxa	Gordonibacter	Phenotype	GESPIC	0.128	7.55e-02	*																			
+16S Taxa	Gordonibacter	Medication	NSAIDs_current	-0.007	9.92e-01																				
+16S Taxa	Gordonibacter	Demographic	Age	0.018	9.01e-01																				
+16S Taxa	Gordonibacter	Demographic	Sex	-0.006	9.42e-01																				
+16S Taxa	Gordonibacter	Phenotype	HLAB27	0.05	4.97e-01																				
+16S Taxa	Gordonibacter	Medication	Antibiotics_recent	-0.076	6.31e-01																				
+16S Taxa	Gordonibacter	Inflammation	CRP	0.033	7.60e-01																				
+16S Taxa	Gordonibacter	Medication	Corticoids_current	0.021	9.45e-01																				
+16S Taxa	Gordonibacter	Medication	Corticoids_ever	0.102	6.04e-01																				
+16S Taxa	Gordonibacter	Medication	csDMARDs_ever	0.039	5.98e-01																				
+16S Taxa	Gordonibacter	Medication	csDMARDs_current	0.01	9.71e-01																				
+16S Taxa	Gordonibacter	Inflammation	ESR	-0.016	9.63e-01																				
+16S Taxa	Gordonibacter	Demographic	BMI	-0.105	4.66e-01																				
+16S Taxa	Gordonibacter	Phenotype	CD	0.021	7.36e-01																				
+16S Taxa	Gordonibacter	Phenotype	AAU	0.077	2.09e-01																				
+16S Taxa	Gordonibacter	Phenotype	SpA	0.021	9.21e-01																				
+16S Taxa	Gordonibacter	Enterotype	B1	0.08	5.07e-02		*																		
+16S Taxa	Gordonibacter	Enterotype	B2	-0.006	9.08e-01																				
+16S Taxa	Gordonibacter	Enterotype	P	-0.14	2.42e-02	*																			
+16S Taxa	Bifidobacterium	Phenotype	GESPIC	-0.228	4.90e-02	*																			
+16S Taxa	Bifidobacterium	Medication	NSAIDs_current	0.014	9.92e-01																				
+16S Taxa	Bifidobacterium	Demographic	Age	-0.129	1.77e-01																				
+16S Taxa	Bifidobacterium	Demographic	Sex	-0.053	7.55e-01																				
+16S Taxa	Bifidobacterium	Phenotype	HLAB27	-0.04	7.88e-01																				
+16S Taxa	Bifidobacterium	Medication	Antibiotics_recent	-0.336	2.46e-01																				
+16S Taxa	Bifidobacterium	Inflammation	CRP	-0.095	2.33e-01																				
+16S Taxa	Bifidobacterium	Medication	Corticoids_current	-0.097	8.74e-01																				
+16S Taxa	Bifidobacterium	Medication	Corticoids_ever	-0.041	9.62e-01																				
+16S Taxa	Bifidobacterium	Medication	csDMARDs_ever	-0.149	1.85e-01																				
+16S Taxa	Bifidobacterium	Medication	csDMARDs_current	-0.13	5.24e-01																				
+16S Taxa	Bifidobacterium	Inflammation	ESR	-0.078	5.28e-01																				
+16S Taxa	Bifidobacterium	Demographic	BMI	0.05	7.28e-01																				
+16S Taxa	Bifidobacterium	Phenotype	CD	-0.12	1.77e-01																				
+16S Taxa	Bifidobacterium	Phenotype	AAU	-0.009	9.79e-01																				
+16S Taxa	Bifidobacterium	Phenotype	SpA	-0.081	6.64e-01																				
+16S Taxa	Bifidobacterium	Enterotype	B1	0.169	9.89e-03		**																		
+16S Taxa	Bifidobacterium	Enterotype	B2	-0.033	6.78e-01																				
+16S Taxa	Bifidobacterium	Enterotype	P	-0.263	6.85e-03	**																			
+16S Taxa	Phocea	Phenotype	GESPIC	0.079	2.86e-01																				
+16S Taxa	Phocea	Medication	NSAIDs_current	0.017	9.59e-01																				
+16S Taxa	Phocea	Demographic	Age	-0.087	3.53e-01																				
+16S Taxa	Phocea	Demographic	Sex	-0.029	7.55e-01																				
+16S Taxa	Phocea	Phenotype	HLAB27	0.017	8.50e-01																				
+16S Taxa	Phocea	Medication	Antibiotics_recent	-0.096	5.20e-01																				
+16S Taxa	Phocea	Inflammation	CRP	0.081	3.20e-01																				
+16S Taxa	Phocea	Medication	Corticoids_current	-0.025	9.45e-01																				
+16S Taxa	Phocea	Medication	Corticoids_ever	0.087	6.04e-01																				
+16S Taxa	Phocea	Medication	csDMARDs_ever	0.095	1.41e-01																				
+16S Taxa	Phocea	Medication	csDMARDs_current	0.141	1.32e-01																				
+16S Taxa	Phocea	Inflammation	ESR	0.036	8.48e-01																				
+16S Taxa	Phocea	Demographic	BMI	-0.002	9.83e-01																				
+16S Taxa	Phocea	Phenotype	CD	0.046	3.81e-01																				
+16S Taxa	Phocea	Phenotype	AAU	-0.102	8.46e-02	*																			
+16S Taxa	Phocea	Phenotype	SpA	0.035	7.02e-01																				
+16S Taxa	Phocea	Enterotype	B1	0.045	2.59e-01																				
+16S Taxa	Phocea	Enterotype	B2	-0.008	8.77e-01																				
+16S Taxa	Phocea	Enterotype	P	-0.071	2.67e-01																				
+16S Taxa	Coprococcus 3	Phenotype	GESPIC	0.136	2.86e-01																				
+16S Taxa	Coprococcus 3	Medication	NSAIDs_current	0.088	7.63e-01																				
+16S Taxa	Coprococcus 3	Demographic	Age	-0.062	5.82e-01																				
+16S Taxa	Coprococcus 3	Demographic	Sex	-0.125	4.82e-01																				
+16S Taxa	Coprococcus 3	Phenotype	HLAB27	0.184	4.28e-02	*																			
+16S Taxa	Coprococcus 3	Medication	Antibiotics_recent	-0.486	6.63e-03	**																			
+16S Taxa	Coprococcus 3	Inflammation	CRP	0.024	8.35e-01																				
+16S Taxa	Coprococcus 3	Medication	Corticoids_current	0.2	7.36e-01																				
+16S Taxa	Coprococcus 3	Medication	Corticoids_ever	-0.009	9.87e-01																				
+16S Taxa	Coprococcus 3	Medication	csDMARDs_ever	-0.15	1.85e-01																				
+16S Taxa	Coprococcus 3	Medication	csDMARDs_current	-0.051	8.39e-01																				
+16S Taxa	Coprococcus 3	Inflammation	ESR	0.008	9.77e-01																				
+16S Taxa	Coprococcus 3	Demographic	BMI	0.056	7.28e-01																				
+16S Taxa	Coprococcus 3	Phenotype	CD	-0.096	2.75e-01																				
+16S Taxa	Coprococcus 3	Phenotype	AAU	0.205	3.95e-02	*																			
+16S Taxa	Coprococcus 3	Phenotype	SpA	0.134	3.15e-01																				
+16S Taxa	Coprococcus 3	Enterotype	B1	0.258	5.55e-05	***																			
+16S Taxa	Coprococcus 3	Enterotype	B2	-0.258	1.53e-04		***																		
+16S Taxa	Coprococcus 3	Enterotype	P	-0.059	6.18e-01																				
+16S Taxa	Cupriavidus	Phenotype	GESPIC	-0.122	1.29e-02		*																		
+16S Taxa	Cupriavidus	Medication	NSAIDs_current	-0.006	9.92e-01																				
+16S Taxa	Cupriavidus	Demographic	Age	-0.045	7.26e-01																				
+16S Taxa	Cupriavidus	Demographic	Sex	0.045	6.39e-01																				
+16S Taxa	Cupriavidus	Phenotype	HLAB27	-0.049	3.45e-01																				
+16S Taxa	Cupriavidus	Medication	Antibiotics_recent	0.008	9.96e-01																				
+16S Taxa	Cupriavidus	Inflammation	CRP	-0.113	1.57e-01																				
+16S Taxa	Cupriavidus	Medication	Corticoids_current	-0.007	9.79e-01																				
+16S Taxa	Cupriavidus	Medication	Corticoids_ever	0.009	9.62e-01																				
+16S Taxa	Cupriavidus	Medication	csDMARDs_ever	-0.045	4.00e-01																				
+16S Taxa	Cupriavidus	Medication	csDMARDs_current	-0.084	3.45e-01																				
+16S Taxa	Cupriavidus	Inflammation	ESR	-0.083	5.10e-01																				
+16S Taxa	Cupriavidus	Demographic	BMI	-0.033	8.20e-01																				
+16S Taxa	Cupriavidus	Phenotype	CD	-0.07	7.91e-02		*																		
+16S Taxa	Cupriavidus	Phenotype	AAU	0.024	6.68e-01																				
+16S Taxa	Cupriavidus	Phenotype	SpA	-0.119	2.41e-03	**																			
+16S Taxa	Cupriavidus	Enterotype	B1	0.044	1.51e-01																				
+16S Taxa	Cupriavidus	Enterotype	B2	0.003	9.30e-01																				
+16S Taxa	Cupriavidus	Enterotype	P	-0.087	5.74e-02	*																			
+16S Taxa	Lachnoclostridium	Phenotype	GESPIC	0.231	4.70e-02		*																		
+16S Taxa	Lachnoclostridium	Medication	NSAIDs_current	-0.063	8.62e-01																				
+16S Taxa	Lachnoclostridium	Demographic	Age	0.098	2.84e-01																				
+16S Taxa	Lachnoclostridium	Demographic	Sex	0.011	9.42e-01																				
+16S Taxa	Lachnoclostridium	Phenotype	HLAB27	-0.085	4.79e-01																				
+16S Taxa	Lachnoclostridium	Medication	Antibiotics_recent	0.289	2.75e-01																				
+16S Taxa	Lachnoclostridium	Inflammation	CRP	0.097	2.27e-01																				
+16S Taxa	Lachnoclostridium	Medication	Corticoids_current	-0.082	9.45e-01																				
+16S Taxa	Lachnoclostridium	Medication	Corticoids_ever	0.137	6.04e-01																				
+16S Taxa	Lachnoclostridium	Medication	csDMARDs_ever	0.29	4.58e-03		**																		
+16S Taxa	Lachnoclostridium	Medication	csDMARDs_current	0.213	2.16e-01																				
+16S Taxa	Lachnoclostridium	Inflammation	ESR	0.032	8.59e-01																				
+16S Taxa	Lachnoclostridium	Demographic	BMI	-0.056	7.28e-01																				
+16S Taxa	Lachnoclostridium	Phenotype	CD	0.358	1.15e-05	***																			
+16S Taxa	Lachnoclostridium	Phenotype	AAU	-0.098	3.06e-01																				
+16S Taxa	Lachnoclostridium	Phenotype	SpA	0.005	9.72e-01																				
+16S Taxa	Lachnoclostridium	Enterotype	B1	-0.229	3.67e-04	***																			
+16S Taxa	Lachnoclostridium	Enterotype	B2	0.579	3.20e-18	***																			
+16S Taxa	Lachnoclostridium	Enterotype	P	-0.523	4.09e-09	***																			
+16S Taxa	Ruminococcaceae UCG-014	Phenotype	GESPIC	-0.176	1.11e-01																				
+16S Taxa	Ruminococcaceae UCG-014	Medication	NSAIDs_current	-0.032	9.59e-01																				
+16S Taxa	Ruminococcaceae UCG-014	Demographic	Age	0.123	1.89e-01																				
+16S Taxa	Ruminococcaceae UCG-014	Demographic	Sex	0.103	6.06e-01																				
+16S Taxa	Ruminococcaceae UCG-014	Phenotype	HLAB27	0.101	3.68e-01																				
+16S Taxa	Ruminococcaceae UCG-014	Medication	Antibiotics_recent	-0.167	5.05e-01																				
+16S Taxa	Ruminococcaceae UCG-014	Inflammation	CRP	-0.21	1.56e-03		**																		
+16S Taxa	Ruminococcaceae UCG-014	Medication	Corticoids_current	-0.022	9.51e-01																				
+16S Taxa	Ruminococcaceae UCG-014	Medication	Corticoids_ever	-0.106	6.82e-01																				
+16S Taxa	Ruminococcaceae UCG-014	Medication	csDMARDs_ever	-0.279	4.58e-03		**																		
+16S Taxa	Ruminococcaceae UCG-014	Medication	csDMARDs_current	-0.305	5.45e-02		*																		
+16S Taxa	Ruminococcaceae UCG-014	Inflammation	ESR	-0.128	2.43e-01																				
+16S Taxa	Ruminococcaceae UCG-014	Demographic	BMI	-0.034	8.20e-01																				
+16S Taxa	Ruminococcaceae UCG-014	Phenotype	CD	-0.348	1.15e-05	***																			
+16S Taxa	Ruminococcaceae UCG-014	Phenotype	AAU	0.211	2.93e-02	*																			
+16S Taxa	Ruminococcaceae UCG-014	Phenotype	SpA	-0.021	9.55e-01																				
+16S Taxa	Ruminococcaceae UCG-014	Enterotype	B1	0.497	4.01e-16	***																			
+16S Taxa	Ruminococcaceae UCG-014	Enterotype	B2	-0.584	2.23e-19	***																			
+16S Taxa	Ruminococcaceae UCG-014	Enterotype	P	0.03	7.87e-01																				
+16S Taxa	Holdemanella	Phenotype	GESPIC	0.037	7.68e-01																				
+16S Taxa	Holdemanella	Medication	NSAIDs_current	0.149	2.60e-01																				
+16S Taxa	Holdemanella	Demographic	Age	0.058	5.99e-01																				
+16S Taxa	Holdemanella	Demographic	Sex	-0.151	2.14e-01																				
+16S Taxa	Holdemanella	Phenotype	HLAB27	0.114	2.15e-01																				
+16S Taxa	Holdemanella	Medication	Antibiotics_recent	-0.234	2.75e-01																				
+16S Taxa	Holdemanella	Inflammation	CRP	0.096	2.31e-01																				
+16S Taxa	Holdemanella	Medication	Corticoids_current	0.037	9.45e-01																				
+16S Taxa	Holdemanella	Medication	Corticoids_ever	0.021	9.62e-01																				
+16S Taxa	Holdemanella	Medication	csDMARDs_ever	-0.052	6.21e-01																				
+16S Taxa	Holdemanella	Medication	csDMARDs_current	-0.076	6.29e-01																				
+16S Taxa	Holdemanella	Inflammation	ESR	0.055	7.35e-01																				
+16S Taxa	Holdemanella	Demographic	BMI	0.067	7.16e-01																				
+16S Taxa	Holdemanella	Phenotype	CD	-0.105	1.73e-01																				
+16S Taxa	Holdemanella	Phenotype	AAU	-0.071	4.12e-01																				
+16S Taxa	Holdemanella	Phenotype	SpA	0.168	3.42e-02		*																		
+16S Taxa	Holdemanella	Enterotype	B1	0.029	6.41e-01																				
+16S Taxa	Holdemanella	Enterotype	B2	-0.311	1.08e-07	***																			
+16S Taxa	Holdemanella	Enterotype	P	0.457	4.09e-09	***																			
+16S Taxa	Bosea	Phenotype	GESPIC	0.069	1.35e-01																				
+16S Taxa	Bosea	Medication	NSAIDs_current	0.03	8.58e-01																				
+16S Taxa	Bosea	Demographic	Age	-0.076	4.50e-01																				
+16S Taxa	Bosea	Demographic	Sex	-0.003	9.42e-01																				
+16S Taxa	Bosea	Phenotype	HLAB27	-0.015	8.20e-01																				
+16S Taxa	Bosea	Medication	Antibiotics_recent	-0.019	9.17e-01																				
+16S Taxa	Bosea	Inflammation	CRP	0.207	1.56e-03	**																			
+16S Taxa	Bosea	Medication	Corticoids_current	-0.027	9.45e-01																				
+16S Taxa	Bosea	Medication	Corticoids_ever	-0.01	9.62e-01																				
+16S Taxa	Bosea	Medication	csDMARDs_ever	-0.04	4.01e-01																				
+16S Taxa	Bosea	Medication	csDMARDs_current	-0.04	5.80e-01																				
+16S Taxa	Bosea	Inflammation	ESR	0.185	6.67e-02	*																			
+16S Taxa	Bosea	Demographic	BMI	0.032	8.20e-01																				
+16S Taxa	Bosea	Phenotype	CD	0.069	5.16e-02		*																		
+16S Taxa	Bosea	Phenotype	AAU	-0.04	3.06e-01																				
+16S Taxa	Bosea	Phenotype	SpA	0.036	5.85e-01																				
+16S Taxa	Bosea	Enterotype	B1	-0.043	1.11e-01																				
+16S Taxa	Bosea	Enterotype	B2	0.054	5.69e-02		*																		
+16S Taxa	Bosea	Enterotype	P	-0.008	8.82e-01																				
+16S Taxa	Alloprevotella	Phenotype	GESPIC	0.136	1.09e-01																				
+16S Taxa	Alloprevotella	Medication	NSAIDs_current	0.116	3.37e-01																				
+16S Taxa	Alloprevotella	Demographic	Age	0.039	7.80e-01																				
+16S Taxa	Alloprevotella	Demographic	Sex	-0.07	6.52e-01																				
+16S Taxa	Alloprevotella	Phenotype	HLAB27	0.054	5.32e-01																				
+16S Taxa	Alloprevotella	Medication	Antibiotics_recent	-0.127	5.05e-01																				
+16S Taxa	Alloprevotella	Inflammation	CRP	0.208	1.56e-03		**																		
+16S Taxa	Alloprevotella	Medication	Corticoids_current	-0.132	7.36e-01																				
+16S Taxa	Alloprevotella	Medication	Corticoids_ever	-0.044	8.91e-01																				
+16S Taxa	Alloprevotella	Medication	csDMARDs_ever	-0.042	6.32e-01																				
+16S Taxa	Alloprevotella	Medication	csDMARDs_current	-0.08	5.67e-01																				
+16S Taxa	Alloprevotella	Inflammation	ESR	0.171	7.92e-02	*																			
+16S Taxa	Alloprevotella	Demographic	BMI	0.093	5.42e-01																				
+16S Taxa	Alloprevotella	Phenotype	CD	-0.054	4.09e-01																				
+16S Taxa	Alloprevotella	Phenotype	AAU	0.01	9.79e-01																				
+16S Taxa	Alloprevotella	Phenotype	SpA	0.138	4.08e-02		*																		
+16S Taxa	Alloprevotella	Enterotype	B1	-0.07	1.58e-01																				
+16S Taxa	Alloprevotella	Enterotype	B2	-0.09	8.35e-02		*																		
+16S Taxa	Alloprevotella	Enterotype	P	0.279	4.00e-05	***																			
+16S Taxa	Ruminococcaceae UCG-013	Phenotype	GESPIC	0.006	9.61e-01																				
+16S Taxa	Ruminococcaceae UCG-013	Medication	NSAIDs_current	-0.011	9.92e-01																				
+16S Taxa	Ruminococcaceae UCG-013	Demographic	Age	-0.015	9.19e-01																				
+16S Taxa	Ruminococcaceae UCG-013	Demographic	Sex	0.035	8.18e-01																				
+16S Taxa	Ruminococcaceae UCG-013	Phenotype	HLAB27	0.086	4.79e-01																				
+16S Taxa	Ruminococcaceae UCG-013	Medication	Antibiotics_recent	0.017	9.96e-01																				
+16S Taxa	Ruminococcaceae UCG-013	Inflammation	CRP	-0.181	6.44e-03	**																			
+16S Taxa	Ruminococcaceae UCG-013	Medication	Corticoids_current	-0.106	8.74e-01																				
+16S Taxa	Ruminococcaceae UCG-013	Medication	Corticoids_ever	-0.184	5.48e-01																				
+16S Taxa	Ruminococcaceae UCG-013	Medication	csDMARDs_ever	-0.122	2.75e-01																				
+16S Taxa	Ruminococcaceae UCG-013	Medication	csDMARDs_current	-0.094	6.03e-01																				
+16S Taxa	Ruminococcaceae UCG-013	Inflammation	ESR	-0.132	2.39e-01																				
+16S Taxa	Ruminococcaceae UCG-013	Demographic	BMI	-0.104	4.66e-01																				
+16S Taxa	Ruminococcaceae UCG-013	Phenotype	CD	-0.105	2.48e-01																				
+16S Taxa	Ruminococcaceae UCG-013	Phenotype	AAU	0.052	6.86e-01																				
+16S Taxa	Ruminococcaceae UCG-013	Phenotype	SpA	-0.061	7.02e-01																				
+16S Taxa	Ruminococcaceae UCG-013	Enterotype	B1	0.387	8.06e-10	***																			
+16S Taxa	Ruminococcaceae UCG-013	Enterotype	B2	-0.241	4.10e-04		***																		
+16S Taxa	Ruminococcaceae UCG-013	Enterotype	P	-0.33	3.96e-04		***																		
+16S Taxa	Blautia	Phenotype	GESPIC	-0.466	8.34e-07	***																			
+16S Taxa	Blautia	Medication	NSAIDs_current	0.006	9.92e-01																				
+16S Taxa	Blautia	Demographic	Age	0.028	8.18e-01																				
+16S Taxa	Blautia	Demographic	Sex	0.137	3.50e-01																				
+16S Taxa	Blautia	Phenotype	HLAB27	-0.236	3.66e-03		**																		
+16S Taxa	Blautia	Medication	Antibiotics_recent	0.015	9.96e-01																				
+16S Taxa	Blautia	Inflammation	CRP	-0.204	1.66e-03		**																		
+16S Taxa	Blautia	Medication	Corticoids_current	-0.129	8.74e-01																				
+16S Taxa	Blautia	Medication	Corticoids_ever	-0.015	9.63e-01																				
+16S Taxa	Blautia	Medication	csDMARDs_ever	-0.066	5.80e-01																				
+16S Taxa	Blautia	Medication	csDMARDs_current	-0.042	8.53e-01																				
+16S Taxa	Blautia	Inflammation	ESR	-0.102	4.64e-01																				
+16S Taxa	Blautia	Demographic	BMI	-0.105	4.66e-01																				
+16S Taxa	Blautia	Phenotype	CD	-0.005	9.63e-01																				
+16S Taxa	Blautia	Phenotype	AAU	-0.168	1.00e-01																				
+16S Taxa	Blautia	Phenotype	SpA	-0.24	5.81e-03		**																		
+16S Taxa	Blautia	Enterotype	B1	0.066	3.28e-01																				
+16S Taxa	Blautia	Enterotype	B2	0.25	2.65e-04	***																			
+16S Taxa	Blautia	Enterotype	P	-0.537	3.16e-09	***																			
+16S Taxa	CAG-56	Phenotype	GESPIC	-0.206	5.94e-02		*																		
+16S Taxa	CAG-56	Medication	NSAIDs_current	0.146	3.44e-01																				
+16S Taxa	CAG-56	Demographic	Age	0.006	9.50e-01																				
+16S Taxa	CAG-56	Demographic	Sex	-0.077	6.73e-01																				
+16S Taxa	CAG-56	Phenotype	HLAB27	0.114	2.84e-01																				
+16S Taxa	CAG-56	Medication	Antibiotics_recent	-0.162	5.20e-01																				
+16S Taxa	CAG-56	Inflammation	CRP	-0.126	9.90e-02		*																		
+16S Taxa	CAG-56	Medication	Corticoids_current	-0.065	9.45e-01																				
+16S Taxa	CAG-56	Medication	Corticoids_ever	0.018	9.62e-01																				
+16S Taxa	CAG-56	Medication	csDMARDs_ever	-0.203	4.58e-02		*																		
+16S Taxa	CAG-56	Medication	csDMARDs_current	-0.215	1.90e-01																				
+16S Taxa	CAG-56	Inflammation	ESR	-0.1	4.75e-01																				
+16S Taxa	CAG-56	Demographic	BMI	-0.017	9.11e-01																				
+16S Taxa	CAG-56	Phenotype	CD	-0.305	1.22e-04	***																			
+16S Taxa	CAG-56	Phenotype	AAU	0.118	2.09e-01																				
+16S Taxa	CAG-56	Phenotype	SpA	0.015	9.55e-01																				
+16S Taxa	CAG-56	Enterotype	B1	0.351	9.85e-09		***																		
+16S Taxa	CAG-56	Enterotype	B2	-0.437	1.49e-11	***																			
+16S Taxa	CAG-56	Enterotype	P	0.061	5.92e-01																				
+16S Taxa	Dialister	Phenotype	GESPIC	-0.111	2.90e-01																				
+16S Taxa	Dialister	Medication	NSAIDs_current	0.007	9.92e-01																				
+16S Taxa	Dialister	Demographic	Age	-0.033	8.09e-01																				
+16S Taxa	Dialister	Demographic	Sex	-0.038	7.61e-01																				
+16S Taxa	Dialister	Phenotype	HLAB27	-0.007	9.55e-01																				
+16S Taxa	Dialister	Medication	Antibiotics_recent	-0.194	3.76e-01																				
+16S Taxa	Dialister	Inflammation	CRP	-0.032	7.74e-01																				
+16S Taxa	Dialister	Medication	Corticoids_current	-0.104	8.74e-01																				
+16S Taxa	Dialister	Medication	Corticoids_ever	-0.13	6.04e-01																				
+16S Taxa	Dialister	Medication	csDMARDs_ever	-0.166	4.96e-02	*																			
+16S Taxa	Dialister	Medication	csDMARDs_current	-0.251	5.46e-02	*																			
+16S Taxa	Dialister	Inflammation	ESR	0.012	9.76e-01																				
+16S Taxa	Dialister	Demographic	BMI	0.015	9.11e-01																				
+16S Taxa	Dialister	Phenotype	CD	-0.159	2.65e-02		*																		
+16S Taxa	Dialister	Phenotype	AAU	0.011	9.79e-01																				
+16S Taxa	Dialister	Phenotype	SpA	-0.033	8.92e-01																				
+16S Taxa	Dialister	Enterotype	B1	-0.021	7.35e-01																				
+16S Taxa	Dialister	Enterotype	B2	-0.158	5.75e-03		**																		
+16S Taxa	Dialister	Enterotype	P	0.299	9.67e-05	***																			
+16S Taxa	Ruminococcaceae UCG-005	Phenotype	GESPIC	-0.104	4.11e-01																				
+16S Taxa	Ruminococcaceae UCG-005	Medication	NSAIDs_current	-0.036	9.50e-01																				
+16S Taxa	Ruminococcaceae UCG-005	Demographic	Age	0.061	5.89e-01																				
+16S Taxa	Ruminococcaceae UCG-005	Demographic	Sex	0.024	8.79e-01																				
+16S Taxa	Ruminococcaceae UCG-005	Phenotype	HLAB27	0.095	4.18e-01																				
+16S Taxa	Ruminococcaceae UCG-005	Medication	Antibiotics_recent	-0.245	3.59e-01																				
+16S Taxa	Ruminococcaceae UCG-005	Inflammation	CRP	-0.104	2.02e-01																				
+16S Taxa	Ruminococcaceae UCG-005	Medication	Corticoids_current	-0.023	9.51e-01																				
+16S Taxa	Ruminococcaceae UCG-005	Medication	Corticoids_ever	-0.078	8.29e-01																				
+16S Taxa	Ruminococcaceae UCG-005	Medication	csDMARDs_ever	-0.133	2.31e-01																				
+16S Taxa	Ruminococcaceae UCG-005	Medication	csDMARDs_current	-0.167	3.63e-01																				
+16S Taxa	Ruminococcaceae UCG-005	Inflammation	ESR	-0.051	7.47e-01																				
+16S Taxa	Ruminococcaceae UCG-005	Demographic	BMI	-0.043	7.79e-01																				
+16S Taxa	Ruminococcaceae UCG-005	Phenotype	CD	-0.285	5.79e-04	***																			
+16S Taxa	Ruminococcaceae UCG-005	Phenotype	AAU	0.158	1.18e-01																				
+16S Taxa	Ruminococcaceae UCG-005	Phenotype	SpA	-0.01	9.69e-01																				
+16S Taxa	Ruminococcaceae UCG-005	Enterotype	B1	0.594	2.09e-21		***																		
+16S Taxa	Ruminococcaceae UCG-005	Enterotype	B2	-0.795	2.51e-33	***																			
+16S Taxa	Ruminococcaceae UCG-005	Enterotype	P	0.194	5.44e-02		*																		
+16S Taxa	Prevotella 2	Phenotype	GESPIC	0.008	9.19e-01																				
+16S Taxa	Prevotella 2	Medication	NSAIDs_current	-0.045	8.58e-01																				
+16S Taxa	Prevotella 2	Demographic	Age	0.088	3.48e-01																				
+16S Taxa	Prevotella 2	Demographic	Sex	-0.038	6.80e-01																				
+16S Taxa	Prevotella 2	Phenotype	HLAB27	0.057	4.18e-01																				
+16S Taxa	Prevotella 2	Medication	Antibiotics_recent	-0.053	7.61e-01																				
+16S Taxa	Prevotella 2	Inflammation	CRP	0.007	9.84e-01																				
+16S Taxa	Prevotella 2	Medication	Corticoids_current	0.027	9.45e-01																				
+16S Taxa	Prevotella 2	Medication	Corticoids_ever	-0.003	9.87e-01																				
+16S Taxa	Prevotella 2	Medication	csDMARDs_ever	-0.086	1.86e-01																				
+16S Taxa	Prevotella 2	Medication	csDMARDs_current	-0.067	5.67e-01																				
+16S Taxa	Prevotella 2	Inflammation	ESR	-0.002	9.99e-01																				
+16S Taxa	Prevotella 2	Demographic	BMI	-0.001	9.86e-01																				
+16S Taxa	Prevotella 2	Phenotype	CD	-0.116	2.22e-02	*																			
+16S Taxa	Prevotella 2	Phenotype	AAU	0.061	2.90e-01																				
+16S Taxa	Prevotella 2	Phenotype	SpA	0.06	5.08e-01																				
+16S Taxa	Prevotella 2	Enterotype	B1	-0.102	7.73e-03		**																		
+16S Taxa	Prevotella 2	Enterotype	B2	-0.06	1.51e-01																				
+16S Taxa	Prevotella 2	Enterotype	P	0.29	3.09e-08	***																			
+16S Taxa	Fusobacterium	Phenotype	GESPIC	0.113	1.35e-01																				
+16S Taxa	Fusobacterium	Medication	NSAIDs_current	-0.036	8.72e-01																				
+16S Taxa	Fusobacterium	Demographic	Age	-0.065	5.62e-01																				
+16S Taxa	Fusobacterium	Demographic	Sex	0.001	9.90e-01																				
+16S Taxa	Fusobacterium	Phenotype	HLAB27	-0.043	5.83e-01																				
+16S Taxa	Fusobacterium	Medication	Antibiotics_recent	0.003	9.96e-01																				
+16S Taxa	Fusobacterium	Inflammation	CRP	0.203	1.66e-03	**																			
+16S Taxa	Fusobacterium	Medication	Corticoids_current	0.032	9.45e-01																				
+16S Taxa	Fusobacterium	Medication	Corticoids_ever	0.046	8.70e-01																				
+16S Taxa	Fusobacterium	Medication	csDMARDs_ever	0.154	3.82e-02		*																		
+16S Taxa	Fusobacterium	Medication	csDMARDs_current	0.104	3.71e-01																				
+16S Taxa	Fusobacterium	Inflammation	ESR	0.131	2.39e-01																				
+16S Taxa	Fusobacterium	Demographic	BMI	-0.047	7.35e-01																				
+16S Taxa	Fusobacterium	Phenotype	CD	0.234	1.15e-05	***																			
+16S Taxa	Fusobacterium	Phenotype	AAU	-0.067	3.05e-01																				
+16S Taxa	Fusobacterium	Phenotype	SpA	0.008	9.69e-01																				
+16S Taxa	Fusobacterium	Enterotype	B1	-0.147	5.33e-04		***																		
+16S Taxa	Fusobacterium	Enterotype	B2	0.212	1.78e-06	***																			
+16S Taxa	Fusobacterium	Enterotype	P	-0.074	3.10e-01																				
+16S Taxa	Christensenellaceae R-7 group	Phenotype	GESPIC	-0.029	8.45e-01																				
+16S Taxa	Christensenellaceae R-7 group	Medication	NSAIDs_current	-0.072	8.58e-01																				
+16S Taxa	Christensenellaceae R-7 group	Demographic	Age	0.091	3.31e-01																				
+16S Taxa	Christensenellaceae R-7 group	Demographic	Sex	0.027	8.63e-01																				
+16S Taxa	Christensenellaceae R-7 group	Phenotype	HLAB27	0.118	2.84e-01																				
+16S Taxa	Christensenellaceae R-7 group	Medication	Antibiotics_recent	-0.108	6.58e-01																				
+16S Taxa	Christensenellaceae R-7 group	Inflammation	CRP	-0.118	1.33e-01																				
+16S Taxa	Christensenellaceae R-7 group	Medication	Corticoids_current	0.163	7.36e-01																				
+16S Taxa	Christensenellaceae R-7 group	Medication	Corticoids_ever	0.002	9.87e-01																				
+16S Taxa	Christensenellaceae R-7 group	Medication	csDMARDs_ever	-0.043	7.04e-01																				
+16S Taxa	Christensenellaceae R-7 group	Medication	csDMARDs_current	-0.048	8.39e-01																				
+16S Taxa	Christensenellaceae R-7 group	Inflammation	ESR	-0.088	5.10e-01																				
+16S Taxa	Christensenellaceae R-7 group	Demographic	BMI	-0.034	8.20e-01																				
+16S Taxa	Christensenellaceae R-7 group	Phenotype	CD	-0.198	1.74e-02		*																		
+16S Taxa	Christensenellaceae R-7 group	Phenotype	AAU	0.174	8.34e-02	*																			
+16S Taxa	Christensenellaceae R-7 group	Phenotype	SpA	0.007	9.72e-01																				
+16S Taxa	Christensenellaceae R-7 group	Enterotype	B1	0.552	1.06e-19	***																			
+16S Taxa	Christensenellaceae R-7 group	Enterotype	B2	-0.666	4.59e-25	***																			
+16S Taxa	Christensenellaceae R-7 group	Enterotype	P	0.062	5.90e-01																				
